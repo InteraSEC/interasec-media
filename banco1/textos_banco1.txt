@@ -1,0 +1,151 @@
+INTERASEC · BANCO DE CONTENIDO 1 · 20 carruseles (sin programar)
+Reparto: Resulta que… (7) · Así le engañan (5) · Su empresa (6) · Proteja a los suyos (2)
+
+== r1_impresora ==
+Resulta que su impresora firma cada hoja que imprime 🖨️
+
+Muchas impresoras láser a color añaden unos puntitos amarillos casi invisibles que codifican, entre otros datos, el número de serie de la impresora.
+
+¿Lo sabía? Cuéntenoslo en comentarios.
+
+Fuente: Electronic Frontier Foundation (EFF).
+#ResultaQue #ciberseguridad #privacidad #impresoras #InteraSec
+
+== r2_fotos ==
+Sus fotos pueden decir dónde y cuándo las hizo 📍
+
+Se llama EXIF: una ficha escondida en cada imagen que puede incluir la ubicación GPS. Muchas redes la borran al publicar, pero si envía la foto como archivo o por correo, puede viajar con ella.
+
+Deslice para ver cómo evitarlo.
+#ResultaQue #privacidad #fotos #ciberseguridad #InteraSec
+
+== r3_qr ==
+¿Por qué los QR tienen tres cuadrados en las esquinas?
+
+Son las "esquinas guía": le dicen a la cámara dónde está el código, su tamaño y cómo está girado. Lo que no le dicen es quién lo ha puesto.
+
+¿Lo sabía? Cuéntenoslo en comentarios.
+#ResultaQue #QR #tecnologia #ciberseguridad #InteraSec
+
+== r4_borrar ==
+Borrar un archivo no lo borra. Ni vaciando la papelera.
+
+El espacio solo se marca como libre y, muchas veces, los datos se pueden recuperar. Téngalo en cuenta antes de vender o tirar un ordenador, un móvil o un disco.
+#ResultaQue #datos #privacidad #ciberseguridad #InteraSec
+
+== r5_simbolos ==
+Los símbolos raros en la contraseña ya no son la clave 🔐
+
+La guía de contraseñas del NIST (SP 800-63B, revisión 4, agosto de 2025) pide al menos 15 caracteres cuando la contraseña es la única protección y desaconseja obligar a combinaciones de símbolos. Mejor una frase larga que recuerde.
+
+Fuente: NIST SP 800-63B Rev. 4.
+#ResultaQue #contraseñas #ciberseguridad #InteraSec
+
+== r6_top ==
+Las contraseñas más usadas en España: admin, 123456 y 12345678.
+
+Se descifran en menos de un segundo. ¿Está la suya? Cámbiela hoy, empezando por la del correo.
+
+Fuente: informe de contraseñas más comunes de NordPass (2025).
+#ResultaQue #contraseñas #ciberseguridad #España #InteraSec
+
+== r7_nube ==
+"La nube" es en realidad un edificio ☁️🏢
+
+Centros de datos llenos de servidores. Amazon, Google y Microsoft tienen centros de datos en España, en Aragón y Madrid. Cuando guarda algo en la nube, está en el ordenador de otra empresa: elija bien y proteja su cuenta.
+#ResultaQue #nube #tecnologia #ciberseguridad #InteraSec
+
+== e1_tarjeta ==
+"Somos del banco. Vamos a recoger su tarjeta."
+
+La Policía Nacional alerta: le llaman por un cargo sospechoso y le ofrecen enviar a alguien a casa para llevarse la tarjeta. Ningún banco hace eso. Cuelgue y llame usted al número de la app o de la tarjeta.
+
+Compártalo con sus padres y abuelos.
+Fuente: Policía Nacional (octubre de 2026).
+#estafas #banco #PoliciaNacional #ciberseguridad #InteraSec
+
+== e2_whatsapp ==
+Su WhatsApp pide dinero a escondidas.
+
+La Policía Nacional ha recibido denuncias de cuentas usadas para pedir dinero a familiares y amigos sin que el titular lo viera. Actualice el móvil y WhatsApp, revise los dispositivos vinculados y, si un conocido le pide dinero, llámele antes de pagar.
+
+Fuente: Policía Nacional (30 de octubre de 2026).
+#WhatsApp #estafas #Bizum #ciberseguridad #InteraSec
+
+== e3_policia ==
+Un correo "de la Policía" le acusa de un delito y le da 48 horas.
+
+INCIBE avisa: suplantan a Policía, Guardia Civil e INCIBE con falsas citaciones para después pedir dinero. No responda. Si ya lo hizo, llame al 017.
+
+Fuente: INCIBE.
+#phishing #estafas #INCIBE #ciberseguridad #InteraSec
+
+== e4_carpeta ==
+"Tiene 552,97 € pendientes de cobro." No los tiene.
+
+INCIBE avisa de mensajes que suplantan a Mi Carpeta Ciudadana prometiendo un ingreso. No está enviando esas notificaciones. No pulse el enlace y entre siempre en la web oficial.
+
+Fuente: INCIBE.
+#estafas #phishing #INCIBE #ciberseguridad #InteraSec
+
+== e5_senales ==
+5 señales de que es una estafa: prisa, miedo o premio, un enlace o cuenta nueva, que le pidan claves o códigos, y secreto.
+
+Sirve para SMS, correo, llamadas y WhatsApp. Guárdelo y compártalo.
+¿Le ha llegado algo raro? 017, gratuito y confidencial.
+#estafas #ciberseguridad #consejos #InteraSec
+
+== b1_frio ==
+Su cámara frigorífica también está en internet.
+
+El 7 de noviembre, el Centre de Ciberseguretat de la Comunitat Valenciana avisó de forma preventiva a 21 empresas que usan la misma tecnología de refrigeración que sistemas atacados en supermercados europeos. Cualquier aparato conectado y sin actualizar es una puerta.
+
+¿Sabe todo lo que tiene conectado su empresa? Escríbanos.
+#IoT #ciberseguridad #empresas #comercio #InteraSec
+
+== b2_politica ==
+¿Obliga a cambiar la contraseña cada 90 días? La guía de referencia (NIST SP 800-63B, rev. 4) ya no lo recomienda: solo hay que cambiarla si hay indicios de filtración.
+
+Una política moderna: frases largas, sin obligar a símbolos, comprobación contra contraseñas filtradas y verificación en dos pasos.
+#contraseñas #empresas #ciberseguridad #InteraSec
+
+== b3_hora ==
+Le han atacado. La primera hora:
+1. Aísle el equipo, no lo apague.
+2. No pague ni negocie.
+3. Pida ayuda: 017 y su informático.
+4. Guarde pruebas.
+5. Si hay datos personales afectados, 72 horas para avisar a la AEPD.
+
+Guárdelo. Ojalá no lo necesite.
+#ransomware #ciberseguridad #empresas #RGPD #InteraSec
+
+== b4_72h ==
+Tiene 72 horas para avisar a la AEPD si sufre una brecha de datos personales (art. 33 del RGPD).
+
+Una brecha no es solo un hackeo: también un correo enviado a quien no debía o un portátil perdido sin cifrar.
+
+¿Tiene el protocolo preparado? Escríbanos.
+#RGPD #protecciondedatos #empresas #InteraSec
+
+== b5_alta ==
+Entra alguien nuevo en la empresa: su primer día en ciberseguridad. Usuario propio, solo los permisos necesarios, verificación en dos pasos, equipo actualizado y cifrado, y 10 minutos de formación sobre estafas.
+#empresas #ciberseguridad #RRHH #InteraSec
+
+== b6_dmarc ==
+¿Alguien puede enviar correos con el nombre de su empresa?
+
+Si su dominio no tiene SPF, DKIM y DMARC, sí. Se configuran una vez y evitan facturas falsas en su nombre. Lo revisamos sin compromiso.
+#correo #DMARC #ciberseguridad #empresas #InteraSec
+
+== f1_movil ==
+El primer móvil de su hijo: 6 ajustes antes de dárselo. Control parental, compras con permiso, tiempo de uso, cuentas privadas, ubicación solo con la familia y nada de desconocidos. Y lo más importante: que sepa que puede contárselo.
+#familia #controlparental #ciberseguridad #InteraSec
+
+== f2_mayores ==
+"Mamá, he cambiado de número. Necesito dinero."
+
+El timo del hijo en apuros. Una idea sencilla: acuerden una palabra clave familiar y, ante la duda, llamen al número de siempre.
+
+Compártalo con sus padres hoy.
+#estafas #WhatsApp #familia #mayores #InteraSec
