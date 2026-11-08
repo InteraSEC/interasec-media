@@ -1,0 +1,89 @@
+INTERASEC · BANCO DE CONTENIDO 2 · 20 carruseles (sin programar)
+
+== r8_cajero ==
+¿Por qué el cajero le devuelve antes la tarjeta que el dinero? Para que no se la olvide: es un error humano tan común que tiene nombre. Y muchas medidas de seguridad se diseñan precisamente contra errores humanos.
+
+¿Lo sabía? Cuéntenoslo en comentarios.
+#ResultaQue #seguridad #curiosidades #InteraSec
+
+== r9_pin ==
+¿Por qué el móvil le pide el PIN aunque use la cara o la huella? Tras reiniciar, el PIN es lo que descifra sus datos. Por eso un 1234 o su fecha de nacimiento son tan mala idea.
+#ResultaQue #móvil #privacidad #ciberseguridad #InteraSec
+
+== r10_incognito ==
+El modo incógnito no le hace invisible: solo evita que su navegador guarde el historial. Su operador, la red de su empresa y las webs en las que inicia sesión siguen sabiendo qué hace.
+
+¿Lo sabía? Cuéntenoslo en comentarios.
+#ResultaQue #privacidad #navegador #InteraSec
+
+== r11_cookies ==
+¿Por qué todas las webs le preguntan por las cookies? Porque la ley (LSSI y normativa europea) exige su consentimiento para las que no son necesarias. Y rechazar debe ser tan fácil como aceptar.
+#ResultaQue #cookies #privacidad #InteraSec
+
+== r12_codigo ==
+¿Por qué el código de verificación caduca tan rápido? Se calcula con una clave secreta y la hora: cada 30 segundos, uno nuevo. Si alguien lo ve, ya no le sirve. Y si alguien se lo pide por teléfono, es una estafa.
+#ResultaQue #2FA #ciberseguridad #InteraSec
+
+== r13_arroba ==
+Esta dirección no lleva a su banco: bancolumo.es@acceso-cliente.top. En una web, lo que va antes de la @ se ignora; el navegador va a lo que hay después. Fíjese siempre en lo que hay justo antes de la primera barra.
+
+(Ejemplo ficticio.)
+#ResultaQue #phishing #ciberseguridad #InteraSec
+
+== r14_numero ==
+Su número de teléfono es la llave de casi todo: banco, correo, WhatsApp y redes lo usan para enviarle códigos y recuperar la cuenta. Protéjalo con PIN en la SIM y, cuando pueda, use una app autenticadora en lugar de SMS.
+#ResultaQue #móvil #ciberseguridad #InteraSec
+
+== e6_sim ==
+Se queda sin cobertura. Y le vacían la cuenta. Es el duplicado de SIM: consiguen una tarjeta con su número y reciben los SMS de su banco. Si se queda sin servicio sin motivo, llame a su operador y a su banco enseguida.
+#estafas #SIM #banca #ciberseguridad #InteraSec
+
+== e7_bizum ==
+"Ya le he enviado el Bizum, acéptelo." Si le llega una solicitud, el que paga es usted. Para recibir un Bizum no hay que aceptar nada.
+
+Compártalo con quien vende en internet.
+#Bizum #estafas #segundamano #InteraSec
+
+== e8_soporte ==
+"Le llamamos de soporte técnico: su ordenador tiene un virus." Las grandes empresas no llaman para eso. Nunca instale programas que le pida un desconocido. Si ya lo hizo, desconecte internet y llame al 017.
+#estafas #soportetecnico #ciberseguridad #InteraSec
+
+== e9_inversion ==
+Un famoso le recomienda invertir. No es él: usan su imagen e incluso vídeos creados con IA. Rentabilidades altas y seguras no existen. Compruebe siempre si la entidad está registrada en la CNMV.
+#estafas #inversion #deepfake #ciberseguridad #InteraSec
+
+== e10_segunda ==
+"Le envío el dinero, rellene este enlace para el envío." En la compraventa de segunda mano, haga todo dentro de la aplicación. Para cobrar no hace falta dar el número completo de la tarjeta ni el CVV.
+#segundamano #estafas #ciberseguridad #InteraSec
+
+== b7_restaurar ==
+¿Cuándo fue la última vez que restauró una copia de seguridad? Hacer copias no basta: hay que probarlas. Una prueba al trimestre, con fecha y resultado. Una copia sin probar es solo una esperanza.
+#copiasdeseguridad #backup #empresas #InteraSec
+
+== b8_admin ==
+¿Todos sus empleados son administradores de sus equipos? Si uno abre un archivo malicioso, el programa hereda esos permisos. Mínimo privilegio: cada persona, solo lo que necesita.
+#empresas #ciberseguridad #permisos #InteraSec
+
+== b9_mfa ==
+Correo de empresa sin verificación en dos pasos: con una sola contraseña robada, un atacante entra. En Microsoft 365 o Google Workspace se activa en una mañana. ¿Le ayudamos?
+#Microsoft365 #GoogleWorkspace #2FA #empresas #InteraSec
+
+== b10_nis2 ==
+NIS2: aunque su empresa sea pequeña, su cliente puede no serlo. La directiva europea obliga a los sectores clave a controlar la seguridad de sus proveedores. Si trabaja para ellos, prepárese para cuestionarios y auditorías.
+#NIS2 #ciberseguridad #empresas #proveedores #InteraSec
+
+== b11_seguro ==
+¿Ciberseguro? Las aseguradoras piden cada vez más medidas mínimas: verificación en dos pasos, copias separadas, actualizaciones y formación. Revise su punto de partida antes de contratar.
+#ciberseguro #empresas #ciberseguridad #InteraSec
+
+== b12_inventario ==
+No se puede proteger lo que no sabe que tiene. Un inventario de equipos, servicios y accesos es el primer paso. Una hoja de cálculo basta para empezar: ¿quiere nuestra plantilla? Escríbanos.
+#inventario #empresas #ciberseguridad #InteraSec
+
+== f3_juegos ==
+Su hijo juega online. ¿Sabe con quién habla? Chat solo con amigos, compras con su aprobación y tiempo limitado. Y, sobre todo, que le cuente si alguien le incomoda.
+#familia #videojuegos #controlparental #InteraSec
+
+== f4_padres ==
+Configure hoy el móvil de sus padres: filtro de spam en llamadas, actualizaciones automáticas, PIN de bloqueo y usted como contacto de confianza. Y una regla de oro: "Si te piden dinero o claves, cuelga y llámame".
+#mayores #familia #estafas #InteraSec
