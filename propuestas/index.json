@@ -1,0 +1,111 @@
+{
+  "actualizado": "2026-11-11T07:55:14+00:00",
+  "items": [
+    {
+      "id": "2026-11-11-am-1",
+      "creada": "2026-11-11T07:55:14+00:00",
+      "serie": "enganan",
+      "formato": "carrusel",
+      "titulo": "Apuestas que usted nunca hizo, en su declaración de la renta",
+      "gancho": "Abre su borrador de la renta y aparecen ganancias en apuestas online. Usted no ha apostado en su vida.",
+      "resumen": "Con una copia de su DNI, un delincuente puede abrir cuentas en casas de apuestas a su nombre. Las ganancias acaban imputadas en su renta. Consumo registró 7.712 denuncias por suplantación en el juego online en 2024 y existe un protocolo oficial (PACS de la DGOJ) para defenderse. Gancho de actualidad: esta semana varios medios informan de una operación de la Guardia Civil contra una red de este tipo; no se ha localizado aún la nota oficial, por eso no se usan sus cifras.",
+      "datos_clave": [
+        "7.712 denuncias de suplantación de identidad en el juego online en 2024 (Ministerio de Consumo, nota de 24/02/2025)",
+        "El 91 % de las suplantaciones se dieron en apuestas deportivas (Consumo)",
+        "Casi un 5 % (4,7 %) de quienes declararon ganar más de 100 € en juego online fueron víctimas, según denuncias (Consumo, datos renta 2023)",
+        "Protocolo PACS de la DGOJ para el contribuyente suplantado; denuncia ante Policía o Guardia Civil (también en la sede electrónica de la Guardia Civil)",
+        "INCIBE recomienda ocultar datos al enviar copias del DNI (marca de agua con el uso concreto) y alta en el servicio Phishing Alert; Línea de Ayuda 017"
+      ],
+      "fuentes": [
+        {
+          "titulo": "INCIBE – Qué hacer si Hacienda te atribuye apuestas online que no hiciste",
+          "url": "https://www.incibe.es/linea-de-ayuda-en-ciberseguridad/casos-reales/que-hacer-si-hacienda-te-atribuye-apuestas-online-que-no-hiciste",
+          "fecha": "2026-04-21"
+        },
+        {
+          "titulo": "Ministerio de Consumo – Casi 8.000 denuncias por suplantación de identidad en el juego online",
+          "url": "https://www.dsca.gob.es/es/comunicacion/notas-prensa/consumo-registrado-casi-8000-denuncias-suplantacion-identidad-juego",
+          "fecha": "2025-02-24"
+        },
+        {
+          "titulo": "DGOJ – PACS, servicio al contribuyente suplantado",
+          "url": "https://www.ordenacionjuego.es/participantes-juego/juego-autorizado/pacs-servicio-contribuyente-suplantado",
+          "fecha": "2026-11-11"
+        },
+        {
+          "titulo": "(Contexto, pendiente de nota oficial) Moncloa.com – Guardia Civil y suplantación para apuestas online",
+          "url": "https://www.moncloa.com/2026/11/08/guardia-civil-suplantacion-identidad-apuestas-online-3464232/",
+          "fecha": "2026-11-08"
+        }
+      ],
+      "diapositivas": [
+        {
+          "titulo": "Ha ganado en apuestas. Usted no apuesta.",
+          "texto": "Abre el borrador de la renta y Hacienda le atribuye ganancias en apuestas online. Le está pasando a miles de personas."
+        },
+        {
+          "titulo": "¿Cómo es posible?",
+          "texto": "Alguien consigue una copia de su DNI (una oferta de empleo, un alquiler, una reserva…) y abre cuentas en casas de apuestas a su nombre."
+        },
+        {
+          "titulo": "No es un caso aislado",
+          "texto": "En 2024 se registraron 7.712 denuncias por suplantación en el juego online. El 91 %, en apuestas deportivas. (Fuente: Ministerio de Consumo)"
+        },
+        {
+          "titulo": "Si le ocurre",
+          "texto": "1. Denuncie la suplantación ante Policía o Guardia Civil.\n2. Siga el protocolo PACS de la Dirección General de Ordenación del Juego.\n3. Guarde todas las pruebas y preséntelas a Hacienda."
+        },
+        {
+          "titulo": "Revise también",
+          "texto": "Pida cita para renovar el DNI, compruebe en la CIRBE del Banco de España que no hay préstamos a su nombre y busque sus datos en internet de vez en cuando."
+        },
+        {
+          "titulo": "Antes de enviar su DNI",
+          "texto": "Póngale una marca de agua con el uso concreto: «Solo para alquiler en X, noviembre 2026». Y desconfíe de quien se lo pide sin motivo claro."
+        },
+        {
+          "titulo": "¿Dudas?",
+          "texto": "Llame gratis al 017 (INCIBE), de 8:00 a 23:00. ¿Hablamos? Escríbanos por mensaje."
+        }
+      ],
+      "caption": "Abre su borrador de la renta y aparecen ganancias en apuestas online que usted nunca hizo. 🎰\n\nCon una simple copia de su DNI, alguien puede abrir cuentas de apuestas a su nombre. En 2024 se registraron 7.712 denuncias por este tipo de suplantación (Ministerio de Consumo).\n\nSi le pasa:\n✅ Denuncie ante Policía o Guardia Civil.\n✅ Siga el protocolo PACS de la Dirección General de Ordenación del Juego.\n✅ Revise la CIRBE y renueve su DNI.\n\nY antes de enviar una copia del DNI, póngale una marca de agua con el uso concreto.\n\nDudas: 017 (INCIBE), gratuito.\n¿Hablamos? Escríbanos por mensaje.\n\n#Ciberseguridad #SuplantaciónDeIdentidad #Renta #Estafas #InteraSec #Asturias",
+      "estado": "pendiente"
+    },
+    {
+      "id": "2026-11-11-am-2",
+      "creada": "2026-11-11T07:55:14+00:00",
+      "serie": "suyos",
+      "formato": "reel",
+      "titulo": "Su hijo «invierte» por Bizum: el caso real que atendió INCIBE",
+      "gancho": "«Mamá, estoy invirtiendo: pongo 300 € y me devuelven 700.»",
+      "resumen": "INCIBE publicó el 20/10/2026 el caso de una madre que descubrió varios Bizum desde la cuenta de su hijo adolescente a una web de falsas inversiones en criptomonedas que mostraba ganancias pero no dejaba retirar el dinero. El menor llegó a pedir dinero a un compañero de clase. Reel para padres con señales y pasos.",
+      "datos_clave": [
+        "Caso real de la Línea de Ayuda en Ciberseguridad 017 de INCIBE, publicado el 20/10/2026",
+        "Pagos por Bizum desde la cuenta del menor; promesa de pagar 300 € para obtener 700 €",
+        "La web mostraba ganancias pero no permitía retirarlas",
+        "Para invertir legalmente hay que tener 18 años y usar entidades autorizadas (INCIBE)",
+        "017: gratuito y confidencial, de 8:00 a 23:00 todos los días"
+      ],
+      "fuentes": [
+        {
+          "titulo": "INCIBE – Un menor es engañado para hacer falsas inversiones en criptomonedas",
+          "url": "https://www.incibe.es/linea-de-ayuda-en-ciberseguridad/casos-reales/un-menor-es-enganado-para-hacer-falsas-inversiones-en-criptomonedas",
+          "fecha": "2026-10-20"
+        }
+      ],
+      "guion": [
+        "«Mamá, estoy invirtiendo: pongo 300 € y me devuelven 700.»",
+        "Es un caso real que atendió el 017 de INCIBE.",
+        "Un adolescente enviaba Bizum a una web de criptomonedas.",
+        "La web mostraba ganancias, pero no dejaba sacar el dinero.",
+        "Llegó a pedir dinero a un compañero de clase.",
+        "Si pasa en casa: pare los pagos y guarde capturas y movimientos.",
+        "Denuncie y hable con su banco.",
+        "Y explíquele que nadie regala dinero: para invertir hay que tener 18 años.",
+        "Dudas: 017, gratis y confidencial."
+      ],
+      "caption": "«Pongo 300 € y me devuelven 700.» Así empezó el caso de un adolescente que envió varios Bizum a una falsa plataforma de inversión en criptomonedas. La web enseñaba ganancias, pero nunca dejaba retirarlas. (Caso real atendido por el 017 de INCIBE.)\n\nSi le ocurre a su hijo o hija:\n✅ Detenga cualquier nuevo pago.\n✅ Guarde capturas, mensajes y movimientos de Bizum.\n✅ Denuncie y avise a su banco.\n✅ Hable con él sin culpas: promesas de dinero rápido = estafa.\n\nRecuerde: para invertir legalmente hay que tener 18 años y usar entidades autorizadas.\n\nDudas: 017, gratuito y confidencial.\n¿Hablamos? Escríbanos por mensaje.\n\n#Ciberseguridad #Familia #Menores #Estafas #Bizum #InteraSec #Asturias",
+      "estado": "pendiente"
+    }
+  ]
+}
