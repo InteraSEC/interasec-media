@@ -1,6 +1,75 @@
 {
-  "actualizado": "2026-11-11T07:55:14+00:00",
+  "actualizado": "2026-11-11T16:55:24+00:00",
   "items": [
+    {
+      "id": "2026-11-11-pm-1",
+      "creada": "2026-11-11T16:55:24+00:00",
+      "serie": "suyos",
+      "formato": "carrusel",
+      "titulo": "TikTok y menores: lo que ha destapado Maldita.es y qué puede hacer usted en casa",
+      "gancho": "Más de 1.000 vídeos de abuso sexual infantil en TikTok. 48 millones de visualizaciones. ¿Qué puede hacer usted como familia?",
+      "resumen": "Una investigación de Maldita.es (9 de noviembre de 2026) localizó en TikTok más de 1.000 vídeos e imágenes de abuso sexual infantil explícito, publicados por más de 200 perfiles y con 48 millones de visualizaciones. De una muestra de 50 denunciados por Maldita, TikTok solo retiró el 10 %. El Ministerio de Juventud e Infancia ha llevado el caso a la Fiscalía. Propuesta orientada a familias: sin detalles escabrosos, con pasos prácticos.",
+      "datos_clave": [
+        "Más de 1.000 vídeos e imágenes de abuso sexual infantil explícito, de más de 200 perfiles (Maldita.es, 09/11/2026)",
+        "48 millones de visualizaciones; datos recogidos durante 35 días (11 sep–15 oct 2026)",
+        "De una muestra de 50 vídeos denunciados por Maldita a través de TikTok, solo se borró el 10 %",
+        "El Ministerio de Juventud e Infancia pidió a la Fiscalía General del Estado que investigue (Maldita.es, 10/11/2026)",
+        "Pendiente de verificar en aepd.es (no se pudo abrir en esta ejecución): la AEPD anunció que ordenará bloquear enlaces concretos, según EscudoDigital (11/11/2026). No se cita en el contenido hasta confirmarlo."
+      ],
+      "fuentes": [
+        {
+          "titulo": "Maldita.es – TikTok, territorio del abuso sexual infantil: más de 1.000 vídeos con contenido explícito y 48 millones de visualizaciones",
+          "url": "https://maldita.es/investigaciones/20261109/tiktok-territorio-abuso-sexual-infantil/",
+          "fecha": "2026-11-09"
+        },
+        {
+          "titulo": "Maldita.es – El Gobierno lleva a la Fiscalía la investigación de Maldita.es sobre abuso sexual infantil en TikTok",
+          "url": "https://maldita.es/investigaciones/20261110/gobierno-fiscalia-tiktok-investigacion-maldita/",
+          "fecha": "2026-11-10"
+        },
+        {
+          "titulo": "EscudoDigital – La AEPD ordenará bloquear contenidos de TikTok por uso ilícito de datos de menores (secundaria, pendiente de nota AEPD)",
+          "url": "https://www.escudodigital.com/ciberseguridad/la-aepd-ordenara-bloquear-contenidos-de-tiktok-por-uso-ilicito-de-datos-de-menores.html",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "diapositivas": [
+        {
+          "titulo": "Más de 1.000 vídeos de abuso infantil en TikTok",
+          "texto": "48 millones de visualizaciones. Lo ha destapado una investigación de Maldita.es. ¿Qué puede hacer usted en casa?"
+        },
+        {
+          "titulo": "Qué se ha encontrado",
+          "texto": "Más de 200 perfiles publicaban este contenido. De 50 vídeos denunciados, la plataforma solo retiró 1 de cada 10. El caso ya está en la Fiscalía."
+        },
+        {
+          "titulo": "Por qué le afecta",
+          "texto": "Estos perfiles conviven con el contenido que ven sus hijos y buscan contactar con menores. Que una red sea popular no significa que sea segura."
+        },
+        {
+          "titulo": "Ajuste 1: cuenta privada y mensajes cerrados",
+          "texto": "Cuenta privada, mensajes directos desactivados o solo de amigos y sin aparecer como sugerencia a desconocidos. TikTok exige al menos 13 años para abrir una cuenta."
+        },
+        {
+          "titulo": "Ajuste 2: vincule su cuenta",
+          "texto": "Con la Sincronización familiar de TikTok, usted controla desde su móvil el tiempo de uso, los mensajes y quién puede comentar."
+        },
+        {
+          "titulo": "Si ve algo así",
+          "texto": "No lo comparta ni lo descargue: difundirlo también es delito. Denúncielo en la app y a la Policía Nacional o la Guardia Civil. Para dudas, el 017 de INCIBE es gratuito y confidencial."
+        },
+        {
+          "titulo": "Lo más importante",
+          "texto": "Que sus hijos sepan que pueden contarle cualquier cosa que les incomode, sin miedo a perder el móvil."
+        },
+        {
+          "titulo": "¿Hablamos?",
+          "texto": "Le ayudamos a configurar los dispositivos de su familia. Escríbanos por mensaje."
+        }
+      ],
+      "caption": "Una investigación de Maldita.es ha encontrado en TikTok más de 1.000 vídeos de abuso sexual infantil, con 48 millones de visualizaciones. El caso ya está en manos de la Fiscalía.\n\nComo familia, hay cosas que puede hacer hoy mismo:\n✅ Cuenta de su hijo en privado y mensajes directos limitados.\n✅ Sincronización familiar activada desde su móvil.\n✅ Si ve contenido así: no lo comparta, denúncielo en la app y a Policía Nacional o Guardia Civil.\n✅ Y, sobre todo, que sepan que pueden contárselo.\n\nFuente: Maldita.es (9 y 10 de noviembre de 2026).\n\n¿Hablamos? Escríbanos por mensaje.\n\n#InteraSec #Asturias #ProtejaALosSuyos #Menores #TikTok #ControlParental #Ciberseguridad",
+      "estado": "pendiente"
+    },
     {
       "id": "2026-11-11-am-1",
       "creada": "2026-11-11T07:55:14+00:00",
