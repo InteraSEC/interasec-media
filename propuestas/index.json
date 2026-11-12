@@ -1,6 +1,57 @@
 {
-  "actualizado": "2026-11-11T16:55:24+00:00",
+  "actualizado": "2026-11-12T16:55:05+00:00",
   "items": [
+    {
+      "id": "2026-11-12-pm-1",
+      "creada": "2026-11-12T16:55:05+00:00",
+      "serie": "resulta",
+      "formato": "reel",
+      "titulo": "Abrir un correo puede bastar para entregar la «huella» de su contraseña",
+      "gancho": "Resulta que abrir un correo en Outlook podía bastar para que un atacante se hiciera pasar por usted.",
+      "resumen": "En la actualización de noviembre (10-11-2026), Microsoft corrigió en Outlook un fallo que ya se estaba aprovechando en ataques reales (CVE-2026-124194). Al abrir un archivo de mensaje manipulado, Outlook se conectaba a un servidor del atacante sin mostrar el aviso habitual y le entregaba una huella cifrada de la contraseña de Windows (hash NTLMv2), útil para suplantar al usuario. No se activa con la vista previa: hay que abrir el archivo. VERIFICAR ANTES DE PUBLICAR: en esta ejecución no se pudo abrir la ficha del MSRC ni el aviso de INCIBE-CERT (bloqueo de acceso); datos confirmados en SecurityWeek (que cita el aviso de Microsoft) y en el informe de Qualys.",
+      "datos_clave": [
+        "CVE-2026-124194, vulnerabilidad de suplantación en Microsoft Outlook, marcada por Microsoft como explotada activamente",
+        "Corregida en el Patch Tuesday del 10 de noviembre de 2026",
+        "Se activa al abrir un archivo de mensaje manipulado; no por el panel de vista previa",
+        "Microsoft: «This vulnerability discloses a user's NTLMv2 hash to the attacker»",
+        "Severidad moderada, CVSS 6,5; afecta a Microsoft 365 Apps for Enterprise, Office LTSC 2021 y Office LTSC 2024",
+        "CISA la añadió a su catálogo KEV con plazo de parcheo el 24 de noviembre de 2026"
+      ],
+      "fuentes": [
+        {
+          "titulo": "Microsoft Security Response Center – CVE-2026-124194 (fuente primaria, pendiente de abrir)",
+          "url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2026-124194",
+          "fecha": "2026-11-10"
+        },
+        {
+          "titulo": "Qualys – Microsoft Patch Tuesday, November 2026 Security Update Review",
+          "url": "https://blog.qualys.com/vulnerabilities-threat-research/2026/11/10/microsoft-patch-tuesday-november-2026-security-update-review",
+          "fecha": "2026-11-10"
+        },
+        {
+          "titulo": "SecurityWeek – Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
+          "url": "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/",
+          "fecha": "2026-11-10"
+        },
+        {
+          "titulo": "INCIBE-CERT – Boletín de seguridad de Microsoft de noviembre de 2026 (pendiente de abrir)",
+          "url": "https://www.incibe.es/incibe-cert/alerta-temprana/avisos/boletin-de-seguridad-de-microsoft-de-noviembre-de-2026",
+          "fecha": "2026-11-11"
+        }
+      ],
+      "guion": [
+        "Resulta que abrir un correo podía bastar para que alguien se hiciera pasar por usted.",
+        "Microsoft acaba de corregir un fallo en Outlook que ya se usaba en ataques reales.",
+        "Le envían un archivo de mensaje preparado y usted lo abre.",
+        "Sin ningún aviso, Outlook se conecta a un servidor del atacante.",
+        "Y le entrega una huella cifrada de su contraseña de Windows.",
+        "Con ella pueden intentar entrar en su nombre.",
+        "Actualice hoy Office y Windows, y no abra archivos de mensaje que no espera.",
+        "¿Hablamos? Escríbanos por mensaje."
+      ],
+      "caption": "Resulta que abrir un correo podía bastar para que alguien se hiciera pasar por usted.\n\nEn la actualización de noviembre, Microsoft ha corregido un fallo de Outlook que ya se estaba aprovechando en ataques reales. Al abrir un archivo de mensaje manipulado, Outlook se conectaba sin avisar a un servidor del atacante y le entregaba una huella cifrada de su contraseña de Windows.\n\nQué hacer hoy:\n✅ Actualice Microsoft 365 / Office y Windows (Configuración > Windows Update).\n✅ No abra archivos de mensaje adjuntos que no espera, aunque parezcan de un conocido.\n✅ En la empresa, compruebe que todos los equipos han recibido el parche, no solo el suyo.\n\n¿Quiere que revisemos si los equipos de su oficina están al día? ¿Hablamos? Escríbanos por mensaje.\n\nFuente: Microsoft (CVE-2026-124194, 10 de noviembre de 2026).\n\n#ResultaQue #Outlook #Microsoft #actualizaciones #ciberseguridad #pymes #InteraSec #Asturias",
+      "estado": "pendiente"
+    },
     {
       "id": "2026-11-11-pm-1",
       "creada": "2026-11-11T16:55:24+00:00",
