@@ -1,6 +1,156 @@
 {
-  "actualizado": "2026-11-12T16:55:05+00:00",
+  "actualizado": "2026-11-18T16:55:56Z",
   "items": [
+    {
+      "id": "2026-11-18-pm-1",
+      "creada": "2026-11-18T16:55:56Z",
+      "serie": "enganan",
+      "formato": "reel",
+      "titulo": "«Se ha modificado su expediente de pensión»: el correo falso de la Seguridad Social",
+      "gancho": "«Se ha modificado su pensión.» Lo firma la Seguridad Social. Y es mentira.",
+      "resumen": "Circula un correo que suplanta a la Seguridad Social: habla de un ajuste en el historial laboral o un nuevo cálculo de la pensión y pide entrar en un «área segura» con el botón «Ver expediente». El enlace lleva a una web fraudulenta que roba datos personales y bancarios. El remitente no es un dominio oficial. Maldita.es lo desmintió el 16/11/2026.",
+      "datos_clave": [
+        "Maldita.es lo califica de falso y timo (phishing), publicado el 16/11/2026",
+        "Título del correo: «Se ha modificado su expediente de pensión»; botón «Ver expediente»",
+        "Remitente con dominio ajeno a la Seguridad Social (tipo «fastpay»)",
+        "Seguridad Social: «no pide información bancaria ni personal por teléfono, mail o SMS»",
+        "Webs oficiales: seg-social.es, sede.seg-social.gob.es, sede-tu.seg-social.gob.es; las notificaciones se consultan en Tu Carpeta Ciudadana o DEHú"
+      ],
+      "fuentes": [
+        {
+          "titulo": "Maldita.es – Falso correo de la Seguridad Social sobre el expediente de pensión",
+          "url": "https://maldita.es/desinfo/20261116/correo-electronico-de-la-seguridad-social-alertando-de-una-modificacion-en-el-expediente-de-pension/",
+          "fecha": "2026-11-16"
+        },
+        {
+          "titulo": "Revista Seguridad Social – Cómo evitar fraudes relacionados con la Seguridad Social",
+          "url": "https://revista.seg-social.es/-/como-evitar-fraudes-relacionados-con-seguridad-social",
+          "fecha": "2025-04-24"
+        }
+      ],
+      "guion": [
+        "«Se ha modificado su pensión.» Lo firma la Seguridad Social. Y es mentira.",
+        "Es un correo que está circulando estos días.",
+        "Habla de un ajuste en su historial laboral o de un nuevo cálculo.",
+        "Y le pide pulsar «Ver expediente» cuanto antes.",
+        "Ese botón lleva a una web falsa que roba sus datos y los de su banco.",
+        "La Seguridad Social no pide datos bancarios ni personales por correo, SMS ni teléfono.",
+        "Sus avisos de verdad se consultan en su web oficial o en Tu Carpeta Ciudadana.",
+        "¿Lo ha recibido? No pulse nada. Bórrelo y compártalo con sus padres."
+      ],
+      "caption": "«Se ha modificado su expediente de pensión.» Si le llega este correo, no pulse el botón.\n\nEs una suplantación de la Seguridad Social que ha desmentido Maldita.es: le pide entrar en un supuesto «área segura» y le lleva a una web falsa que roba datos personales y bancarios.\n\nRecuerde:\n✅ La Seguridad Social no pide datos bancarios ni personales por correo, SMS ni teléfono.\n✅ Sus notificaciones reales se consultan en seg-social.es, en su Sede Electrónica o en Tu Carpeta Ciudadana.\n✅ Mire el remitente: si no es un dominio oficial, desconfíe.\n✅ Ante la duda, llame al teléfono oficial o consulte al 017 de INCIBE.\n\nCompártalo con quien cobra una pensión: es a quien buscan.\n\n¿Hablamos? Escríbanos por mensaje.\n\n#InteraSec #Asturias #Ciberseguridad #Phishing #SeguridadSocial #Pensiones #Estafas",
+      "estado": "pendiente"
+    },
+    {
+      "id": "2026-11-18-pm-2",
+      "creada": "2026-11-18T16:55:56Z",
+      "serie": "resulta",
+      "formato": "reel",
+      "titulo": "Resulta que la web de la BBC pudo robar tarjetas sin que la BBC lo supiera",
+      "gancho": "La web de la BBC robó tarjetas durante horas. Y la BBC no lo sabía.",
+      "resumen": "El 16/11/2026 un atacante metió código malicioso en una herramienta externa (Optimizely) que usan grandes webs para hacer pruebas de diseño. Como esa herramienta se carga en la propia web, el código robaba tarjetas en formularios de pago y cambiaba direcciones de criptomonedas en webs de unas 178 organizaciones (BBC, CNN, Zoom, IKEA, HSBC…). Curiosidad: una web legítima, con candado y dirección correcta, puede ejecutar código de terceros.",
+      "datos_clave": [
+        "16/11/2026: primera inyección a las 04:21 UTC; limpieza completa a las 23:11 UTC (StepSecurity)",
+        "Código malicioso en 188 de 1.611 fragmentos revisados, 178 organizaciones (investigador Scott Helme / Report URI, citado por StepSecurity)",
+        "Ventana de exposición de unas 16 horas en la mayoría de sitios",
+        "Sectores: banca y finanzas 32, tecnología 23, comercio 20, streaming 12, medios 10…",
+        "Optimizely atribuye el fallo a su flujo de registro de cuentas"
+      ],
+      "fuentes": [
+        {
+          "titulo": "StepSecurity – OPTIMJACK: Optimizely-hosted scripts served crypto clipper and card skimmer",
+          "url": "https://www.stepsecurity.io/blog/optimjack-optimizely-hosted-scripts-crypto-clipper-card-skimmer",
+          "fecha": "2026-11-17"
+        },
+        {
+          "titulo": "The Hacker News – Hijacked Optimizely scripts served card skimmer",
+          "url": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
+          "fecha": "2026-11-17"
+        },
+        {
+          "titulo": "Optimizely – Página de estado del incidente",
+          "url": "https://status.optimizely.com/incidents/ftw0fh9wx43z",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "guion": [
+        "La web de la BBC robó tarjetas durante horas. Y la BBC no lo sabía.",
+        "Ni la BBC, ni CNN, ni Zoom, ni IKEA: unas 178 organizaciones.",
+        "Todas usaban la misma herramienta externa para probar el diseño de su web.",
+        "Alguien coló código malicioso en esa herramienta.",
+        "Y la propia web de confianza lo cargaba en su pantalla.",
+        "Copiaba los datos de la tarjeta y cambiaba direcciones de criptomonedas.",
+        "Unas 16 horas, el pasado 16 de noviembre.",
+        "Moraleja: el candado no lo es todo. Revise sus cargos y use tarjeta virtual o con límite para comprar en línea."
+      ],
+      "caption": "Resulta que una web de confianza, con su candado y su dirección correcta, también puede robarle la tarjeta.\n\nEl pasado 16 de noviembre, alguien coló código malicioso en una herramienta externa (Optimizely) que usan grandes webs para hacer pruebas de diseño. Durante unas 16 horas, ese código copiaba datos de tarjetas y cambiaba direcciones de criptomonedas en webs de unas 178 organizaciones, entre ellas la BBC, CNN, Zoom o IKEA, según los investigadores que lo destaparon.\n\nQué puede hacer usted:\n✅ Revise los movimientos de su tarjeta y active los avisos del banco.\n✅ Para compras en línea, use una tarjeta virtual o con límite.\n✅ Si su empresa tiene web o tienda en línea: sepa qué herramientas de terceros carga y quién tiene acceso a ellas.\n\n¿Su web carga cosas que usted no controla? ¿Hablamos? Escríbanos por mensaje.\n\n#InteraSec #Asturias #Ciberseguridad #ComprasOnline #Tarjetas #ResultaQue",
+      "estado": "pendiente"
+    },
+    {
+      "id": "2026-11-18-pm-3",
+      "creada": "2026-11-18T16:55:56Z",
+      "serie": "empresa",
+      "formato": "carrusel",
+      "titulo": "Su informático entra en sus equipos a distancia. Asegúrese de que nadie más pueda.",
+      "gancho": "Su informático entra en su ordenador a distancia. Esta semana, otros también entraron.",
+      "resumen": "Atacantes están aprovechando ScreenConnect, una herramienta de acceso remoto que usan muchos proveedores informáticos (MSP) para dar soporte a sus clientes. Explotan un fallo crítico (CVE-2026-84869, CVSS 9.9) y una extensión mal configurada para instalar clientes falsos en equipos de clientes. La pyme no usa la herramienta directamente, pero su proveedor sí: hay que preguntarle.",
+      "datos_clave": [
+        "Huntress (11/11/2026): al menos 288 equipos en 48 organizaciones en unos 90 minutos",
+        "Huntress, nueva oleada 13/11/2026: 205 equipos en 41 organizaciones",
+        "CVE-2026-84869 (CVSS 9.9), divulgada por ConnectWise el 8/09/2026; corregida en la versión 26.6.5 o posterior",
+        "ConnectWise desactivó cinco extensiones de terceros en más de 400 entornos de socios",
+        "Desde el 20/10: al menos 688.000 intentos contra 42 servidores de proveedores (Huntress, 16/11/2026)"
+      ],
+      "fuentes": [
+        {
+          "titulo": "Huntress – SCKit worm installs rogue ScreenConnect clients",
+          "url": "https://www.huntress.com/blog/sckit-worm-rogue-screenconnect?setlocale=en",
+          "fecha": "2026-11-13"
+        },
+        {
+          "titulo": "Huntress – CVE-2026-84869 in ScreenConnect exploited on MSP technician accounts",
+          "url": "https://www.huntress.com/blog/cve-2026-84869-screenconnect-technician-exploitation",
+          "fecha": "2026-11-16"
+        },
+        {
+          "titulo": "The Hacker News – ConnectWise warns ScreenConnect attacks continue",
+          "url": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
+          "fecha": "2026-11-17"
+        }
+      ],
+      "diapositivas": [
+        {
+          "titulo": "Su informático entra en su ordenador a distancia.",
+          "texto": "Esta semana, otros también entraron. Y no por culpa de la pyme."
+        },
+        {
+          "titulo": "¿Qué ha pasado?",
+          "texto": "Atacantes han usado ScreenConnect, un programa de acceso remoto muy usado por proveedores informáticos, para instalar accesos falsos en equipos de sus clientes."
+        },
+        {
+          "titulo": "Las cifras",
+          "texto": "Solo un investigador (Huntress) contó 288 equipos en 48 organizaciones el 11 de noviembre, y 205 equipos en 41 organizaciones el 13."
+        },
+        {
+          "titulo": "¿Por qué le afecta?",
+          "texto": "Usted no instaló nada. Pero si su proveedor tiene la llave de sus equipos y alguien se la roba, entra por la puerta principal."
+        },
+        {
+          "titulo": "Pregunte a su proveedor",
+          "texto": "1. ¿Qué programa usa para conectarse a mis equipos?\n2. ¿Está actualizado? (ScreenConnect: versión 26.6.5 o posterior)\n3. ¿Exige verificación en dos pasos a sus técnicos?"
+        },
+        {
+          "titulo": "Y en su empresa",
+          "texto": "• Sepa qué programas de acceso remoto hay instalados.\n• Desinstale los que nadie usa.\n• Pida que le avisen antes de cada conexión.\n• Si ve conexiones que no ha pedido, desconecte y avise."
+        },
+        {
+          "titulo": "¿Hablamos?",
+          "texto": "Revisamos con usted quién puede entrar en sus equipos y cómo. Escríbanos por mensaje."
+        }
+      ],
+      "caption": "Su proveedor informático tiene la llave de sus equipos. ¿Sabe cómo la guarda?\n\nEstos días, atacantes han aprovechado ScreenConnect, una herramienta de acceso remoto muy usada por empresas de soporte informático, para colarse en equipos de sus clientes. La empresa de seguridad Huntress contó 288 equipos en 48 organizaciones el 11 de noviembre y otros 205 en 41 organizaciones el 13.\n\nTres preguntas para su proveedor:\n1️⃣ ¿Qué programa usa para conectarse a mis equipos?\n2️⃣ ¿Está actualizado?\n3️⃣ ¿Sus técnicos entran con verificación en dos pasos?\n\nY en casa: sepa qué programas de acceso remoto tiene instalados y quite los que nadie usa.\n\n¿Hablamos? Escríbanos por mensaje.\n\n#InteraSec #Asturias #Ciberseguridad #Pymes #AccesoRemoto #Proveedores #SoporteInformatico",
+      "estado": "pendiente"
+    },
     {
       "id": "2026-11-12-pm-1",
       "creada": "2026-11-12T16:55:05+00:00",
