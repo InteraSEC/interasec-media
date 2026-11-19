@@ -1,6 +1,116 @@
 {
-  "actualizado": "2026-11-18T16:55:56Z",
+  "actualizado": "2026-11-19T16:53:48+00:00",
   "items": [
+    {
+      "id": "2026-11-19-pm-1",
+      "creada": "2026-11-19T16:53:48+00:00",
+      "serie": "suyos",
+      "formato": "reel",
+      "titulo": "«Somos del departamento antifraude de su banco»: 43 detenidos por estafar sobre todo a mayores de 65",
+      "gancho": "Le escribe «el departamento antifraude» de su banco. Y el fraude son ellos.",
+      "resumen": "La Policía Nacional ha detenido a 43 personas de una red que enviaba SMS haciéndose pasar por el departamento de seguridad de los bancos, llamaba después como falso agente y convencía a las víctimas —sobre todo mayores de 65 años— de transferir dinero, sacarlo en cajeros, dar claves, compartir pantalla o instalar una app que copiaba la tarjeta por NFC. Unas 134 estafas esclarecidas y cerca de 1,14 millones de euros. VERIFICAR ANTES DE PUBLICAR: la nota oficial de Interior existe (título confirmado) pero no se pudo abrir de forma automática; las cifras proceden de Euronews y Escudo Digital, que coinciden entre sí.",
+      "datos_clave": [
+        "43 detenidos, 13 investigados en libertad; unos 95 imputados en total",
+        "134 estafas esclarecidas; víctimas sobre todo mayores de 65 años",
+        "Cerca de 1.140.000 € defraudados; una sola víctima perdió unos 45.000 €",
+        "Método: SMS de falso 'departamento antifraude/ciberseguridad', llamada de falso agente, transferencias o ingresos en cajero, petición de claves, compartir pantalla o instalar una app que interceptaba la tarjeta por NFC",
+        "Operación de la Policía Nacional difundida el 12-11-2026"
+      ],
+      "fuentes": [
+        {
+          "titulo": "Interior: La Policía Nacional detiene a 43 personas por estafar a clientes de bancos tras simular ser el departamento antifraude de sus entidades",
+          "url": "https://www.interior.gob.es/opencms/es/detalle/articulo/La-Policia-Nacional-detiene-a-43-personas-por-estafar-a-clientes-de-bancos-tras-simular-ser-el-departamento-antifraude-de-sus-entidades/",
+          "fecha": "2026-11-12"
+        },
+        {
+          "titulo": "Euronews: Al menos 43 detenidos tras robar simulando ser agentes bancarios",
+          "url": "https://es.euronews.com/2026/11/12/al-menos-43-detenidos-tras-robar-simulando-ser-agentes-bancarios",
+          "fecha": "2026-11-12"
+        },
+        {
+          "titulo": "Escudo Digital: 43 detenidos por suplantar a los departamentos antifraude de los bancos",
+          "url": "https://www.escudodigital.com/interior/43-detenidos-por-suplantar-a-los-departamentos-antifraude-de-los-bancos-y-estafar-a-sus-clientes.html",
+          "fecha": "2026-11-12"
+        }
+      ],
+      "guion": [
+        "Le escribe «el departamento antifraude» de su banco. Y el fraude son ellos.",
+        "La Policía Nacional acaba de detener a 43 personas por esta estafa.",
+        "Primero, un SMS: «Hemos detectado un movimiento sospechoso».",
+        "Después, una llamada de un supuesto agente, muy amable y con prisa.",
+        "Pide claves, compartir pantalla, instalar una app o mover el dinero «a una cuenta segura».",
+        "Más de 130 estafas y 1,1 millones de euros. Casi siempre, a mayores de 65.",
+        "Su banco nunca le pedirá eso. Ante la duda, cuelgue y llame usted al número de su tarjeta.",
+        "Cuénteselo hoy a sus padres. ¿Hablamos? Escríbanos por mensaje."
+      ],
+      "caption": "«Somos del departamento antifraude de su banco.» Así empezaba una estafa que, según la Policía Nacional, ha dejado más de 130 víctimas, sobre todo personas mayores de 65 años, y cerca de 1,1 millones de euros. Hay 43 detenidos.\n\nEl guion: un SMS alarmante, una llamada de un falso agente y una petición urgente. Claves, compartir la pantalla, instalar una aplicación, sacar dinero en el cajero o hacer una transferencia «para protegerlo».\n\nTres reglas para usted y para los suyos:\n✅ Su banco nunca le pedirá claves ni códigos, ni que instale nada, ni que mueva su dinero.\n✅ Si le llaman con prisa, cuelgue y llame usted al número que aparece en su tarjeta.\n✅ Si ya ha dado datos, avise a su banco enseguida y llame al 017 (INCIBE), gratuito y confidencial.\n\nCompártalo con sus padres y abuelos: hoy puede ahorrarles un disgusto.\n\n¿Hablamos? Escríbanos por mensaje.\n\n#InteraSec #Asturias #ProtejaALosSuyos #Estafas #Ciberseguridad #PersonasMayores #Vishing #Smishing",
+      "estado": "pendiente"
+    },
+    {
+      "id": "2026-11-19-pm-2",
+      "creada": "2026-11-19T16:53:48+00:00",
+      "serie": "empresa",
+      "formato": "carrusel",
+      "titulo": "Se cae Microsoft 365 y, detrás, llegan los correos falsos de «aviso de incidencia»",
+      "gancho": "Outlook se cayó el día 12. El día 13 llegaron los correos falsos avisando de la caída.",
+      "resumen": "Tras la caída de Microsoft 365 (Exchange Online/Outlook) del 12 de noviembre, que Microsoft atribuyó a un problema técnico de red y no a un ciberataque, se detectaron correos que imitaban los avisos de estado del servicio, citaban el número de incidencia real EX1550543 y amenazaban con borrar en 24 horas el correo retenido si no se pulsaba un enlace. Microsoft lo califica de phishing de credenciales. Lección para pymes: los avisos de incidencias se comprueban solo en el centro de administración. VERIFICAR ANTES DE PUBLICAR: el post de Microsoft del 16-11-2026 no se pudo abrir de forma automática; los detalles proceden de SecurityWeek, que cita a Microsoft, y coinciden con Fortra, Kaspersky y PCWorld.",
+      "datos_clave": [
+        "Caída de Microsoft 365 el 12-11-2026 (incidencia EX1550543, resuelta el 13-11)",
+        "Microsoft: 'a technical issue not related to cyber or AI / agents'",
+        "Correos falsos con asunto 'Outage - ' + código, remitente tipo 'Service Health' u 'Outage Notification'",
+        "Algunos amenazaban con borrar en 24 h los mensajes retenidos si no se pulsaba un enlace",
+        "Microsoft: actividad 'consistent with credential phishing'; campaña bloqueada por sus productos"
+      ],
+      "fuentes": [
+        {
+          "titulo": "Microsoft Security Blog: High-volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors",
+          "url": "https://www.microsoft.com/en-us/security/blog/2026/11/16/high-volume-phishing-campaign-uses-microsoft-365-outage-lures-target-multiple-industry-sectors-2/",
+          "fecha": "2026-11-16"
+        },
+        {
+          "titulo": "SecurityWeek: Microsoft rules out cyberattack in outage, warns of phishing campaign",
+          "url": "https://securityweek.com/microsoft-rules-out-cyberattack-in-outage-warns-of-phishing-campaign",
+          "fecha": "2026-11-16"
+        },
+        {
+          "titulo": "Fortra: Threat actors exploit Microsoft 365 outage in credential phishing campaign",
+          "url": "https://www.fortra.com/blog/threat-actors-exploit-microsoft-365-outage-credential-phishing-campaign",
+          "fecha": "2026-11-13"
+        }
+      ],
+      "diapositivas": [
+        {
+          "titulo": "Outlook se cayó el día 12. El día 13 llegaron los correos falsos avisando de la caída.",
+          "texto": "Cuando un servicio falla, los estafadores aprovechan el ruido."
+        },
+        {
+          "titulo": "Qué pasó",
+          "texto": "El 12 de noviembre Microsoft 365 tuvo una caída que afectó al correo de muchas empresas. Microsoft confirmó que fue un problema técnico, no un ataque."
+        },
+        {
+          "titulo": "Lo que vino después",
+          "texto": "Correos que imitaban los avisos oficiales de «estado del servicio», con el número real de la incidencia y un enlace para «restaurar» los mensajes."
+        },
+        {
+          "titulo": "La trampa: prisa",
+          "texto": "«Si no pulsa en 24 horas, se borrarán sus mensajes retenidos.» El enlace llevaba a una web para robar su usuario y contraseña."
+        },
+        {
+          "titulo": "Cómo protegerse",
+          "texto": "1. Las incidencias se consultan en el centro de administración de Microsoft 365, no desde un correo.\n2. Microsoft no borra su correo por no pulsar un enlace.\n3. Verificación en dos pasos activada en todas las cuentas.\n4. Avise a su equipo cuando haya una caída: es justo cuando llegan los falsos avisos."
+        },
+        {
+          "titulo": "¿Y si alguien ya pulsó?",
+          "texto": "Cambie la contraseña, cierre las sesiones abiertas y revise reglas de reenvío del buzón. Si necesita ayuda, llame al 017 de INCIBE o escríbanos."
+        },
+        {
+          "titulo": "¿Su correo de empresa está bien protegido?",
+          "texto": "Revisamos su Microsoft 365 o Google Workspace en una mañana. ¿Hablamos? Escríbanos por mensaje."
+        }
+      ],
+      "caption": "Outlook se cayó el 12 de noviembre. Al día siguiente ya circulaban correos falsos «avisando» de la caída.\n\nImitaban los avisos de estado de Microsoft 365, citaban el número real de la incidencia y metían prisa: «si no pulsa en 24 horas, se borrarán sus mensajes retenidos». Según Microsoft, era una campaña para robar credenciales.\n\nLo que conviene saber en su empresa:\n✅ Las incidencias de Microsoft 365 se consultan en el centro de administración, nunca desde un enlace en un correo.\n✅ Nadie le va a borrar el correo por no hacer clic.\n✅ Verificación en dos pasos en todas las cuentas.\n✅ Cuando haya una caída, avise a su equipo: es el momento favorito de los estafadores.\n\n¿Quiere que revisemos la seguridad de su correo de empresa? ¿Hablamos? Escríbanos por mensaje.\n\n#InteraSec #Asturias #SuEmpresa #Microsoft365 #Phishing #Ciberseguridad #Pymes",
+      "estado": "pendiente"
+    },
     {
       "id": "2026-11-18-pm-1",
       "creada": "2026-11-18T16:55:56Z",
