@@ -1,6 +1,114 @@
 {
-  "actualizado": "2026-11-19T16:53:48+00:00",
+  "actualizado": "2026-11-20T16:55:24+00:00",
   "items": [
+    {
+      "id": "2026-11-20-pm-1",
+      "creada": "2026-11-20T16:55:24+00:00",
+      "serie": "empresa",
+      "formato": "reel",
+      "titulo": "Fallo crítico en los NAS Synology: revise hoy el suyo",
+      "gancho": "Su NAS guarda todos los archivos de la empresa. Y tiene una puerta abierta sin contraseña.",
+      "resumen": "Synology publicó el 19 de noviembre de 2026 un aviso de gravedad crítica (CVSS 9,8) en la API OAuth de DSM y BeeStation OS: un atacante remoto, sin credenciales, puede leer o escribir archivos y tumbar el equipo. Hay actualización anunciada para DSM 7.3 y 7.4; el resto de versiones sigue sin parche. Mitigación oficial: desactivar el paquete OAuth Service. El aviso no menciona explotación activa.",
+      "datos_clave": [
+        "Aviso Synology-SA-26:21, publicado el 19/11/2026, gravedad «Critical»",
+        "CVE-2026-120382, CVSS 3.1: 9,8 (sin autenticación ni interacción)",
+        "Permite leer o escribir archivos arbitrarios y ataques de denegación de servicio",
+        "Afecta a DSM 7.1, 7.2.1, 7.2.2, 7.3, 7.4 y BeeStation OS 1.5",
+        "Corrección: DSM 7.4.1-90080-2 y 7.3.2-86009-6 (publicación prevista para el 20/11/2026); 7.2.x, 7.1 y BeeStation, aún en curso (Synology recomienda pasar a 7.3.2-86009-6)",
+        "Mitigación oficial: desactivar el paquete OAuth Service",
+        "No afecta a SRM ni a DSM Enterprise; el aviso no menciona explotación activa"
+      ],
+      "fuentes": [
+        {
+          "titulo": "Synology-SA-26:21 DSM, BeeStation OS (aviso oficial)",
+          "url": "https://www.synology.com/en-us/security/advisory/Synology_SA_26_21",
+          "fecha": "2026-11-19"
+        },
+        {
+          "titulo": "RedesZone: vulnerabilidades críticas en Synology",
+          "url": "https://www.redeszone.net/noticias/seguridad/vulnerabilidades-criticas-synology-nginx-oauth/",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "guion": [
+        "Su NAS guarda todos los archivos de la empresa. Y tiene una puerta abierta sin contraseña.",
+        "Synology ha avisado de un fallo crítico: 9,8 sobre 10.",
+        "Desde internet, sin usuario ni clave, se pueden leer o modificar archivos.",
+        "Afecta a casi todas las versiones de DSM y a BeeStation.",
+        "Primero: entre en el Centro de paquetes y desactive «OAuth Service» si no lo usa.",
+        "Segundo: instale la actualización de DSM en cuanto le aparezca.",
+        "Tercero: si su NAS se ve desde internet, que solo se entre por VPN.",
+        "¿No sabe qué versión tiene? ¿Hablamos? Escríbanos por mensaje."
+      ],
+      "caption": "⚠️ Si en su empresa tienen un NAS Synology, esto le interesa.\n\nEl 19 de noviembre Synology publicó un aviso de gravedad crítica (CVSS 9,8) en DSM y BeeStation OS: un fallo en la función OAuth permite, desde internet y sin contraseña, leer o modificar archivos del equipo.\n\nQué hacer hoy:\n✅ Centro de paquetes → desactive «OAuth Service» si no lo usa (es la medida que indica Synology).\n✅ Instale la actualización de DSM en cuanto esté disponible (7.4.1-90080-2 o 7.3.2-86009-6).\n✅ Si usa DSM 7.1 o 7.2, todavía no hay parche: Synology recomienda pasar a 7.3.\n✅ No deje el panel del NAS abierto a internet: mejor por VPN.\n\nFuente: aviso oficial Synology-SA-26:21.\n\n¿Quiere que revisemos su NAS? ¿Hablamos? Escríbanos por mensaje.\n\n#InteraSec #Asturias #Ciberseguridad #Pymes #NAS #Synology #CopiasDeSeguridad",
+      "estado": "pendiente"
+    },
+    {
+      "id": "2026-11-20-pm-2",
+      "creada": "2026-11-20T16:55:24+00:00",
+      "serie": "resulta",
+      "formato": "carrusel",
+      "titulo": "Resulta que su banco ya comprueba a nombre de quién está la cuenta a la que paga",
+      "gancho": "Antes de cada transferencia, su banco ya le dice si el nombre y la cuenta no cuadran. Casi nadie lo lee.",
+      "resumen": "Desde el 9 de octubre de 2025, todos los bancos y entidades de pago deben ofrecer gratis la «verificación del beneficiario» en transferencias en euros, ordinarias o inmediatas: comprueban si el nombre que usted escribe coincide con el titular del IBAN. Si el resultado es «no coincidente» o «casi coincidente» y aun así continúa, el dinero va al IBAN y el banco no responde. Es la mejor defensa ante facturas con IBAN cambiado o falsos «departamentos antifraude». Recordatorio a raíz de la cobertura reciente de las medidas antifraude de la banca (Moncloa.com, 18/11/2026).",
+      "datos_clave": [
+        "Obligatorio desde el 9 de octubre de 2025 y gratuito (Banco de España)",
+        "Aplica a transferencias en euros, ordinarias o inmediatas",
+        "Resultados: coincidente, casi coincidente (le muestran el nombre real), no coincidente, no se pudo verificar",
+        "Si continúa con «no coincidente» o «casi coincidente», el dinero se envía al IBAN y la entidad no es responsable de que llegue a otra persona",
+        "Para pagos masivos de empresas (ficheros) el servicio es opcional para el usuario no consumidor",
+        "Norma de origen: Reglamento (UE) 2024/886 sobre transferencias inmediatas en euros"
+      ],
+      "fuentes": [
+        {
+          "titulo": "Banco de España (Portal Cliente Bancario): Nuevo servicio gratuito de verificación del beneficiario a partir del 9 de octubre de 2025",
+          "url": "https://clientebancario.bde.es/pcb/es/blog/nuevo-servicio-gratuito-de-verificacion-del-beneficiario-a-partir-del-9-de-octubre-de-2025-.html",
+          "fecha": "2025-10-07"
+        },
+        {
+          "titulo": "BOE/DOUE: Reglamento (UE) 2024/886, transferencias inmediatas en euros",
+          "url": "https://www.boe.es/buscar/doc.php?id=DOUE-L-2024-80392",
+          "fecha": "2024-03-13"
+        },
+        {
+          "titulo": "Moncloa.com: Santander, BBVA y la verificación del beneficiario",
+          "url": "https://www.moncloa.com/2026/11/18/santander-bbva-verificacion-3469972/",
+          "fecha": "2026-11-18"
+        }
+      ],
+      "diapositivas": [
+        {
+          "titulo": "Su banco ya le avisa. Casi nadie lo lee.",
+          "texto": "Antes de cada transferencia, su banco comprueba si el nombre que usted escribe es el titular de esa cuenta."
+        },
+        {
+          "titulo": "Desde octubre de 2025, en todos los bancos",
+          "texto": "Se llama «verificación del beneficiario». Es obligatoria, gratuita y funciona en transferencias en euros, normales o inmediatas."
+        },
+        {
+          "titulo": "Cuatro respuestas posibles",
+          "texto": "✅ Coincidente\n🟡 Casi coincidente: le enseñan el nombre real\n❌ No coincidente\n❔ No se pudo verificar"
+        },
+        {
+          "titulo": "Si sigue adelante, el riesgo es suyo",
+          "texto": "Con «no coincidente» o «casi coincidente», el dinero va al IBAN igualmente. Si llega a otra persona, el banco no responde."
+        },
+        {
+          "titulo": "Dónde le salva",
+          "texto": "Una factura de un proveedor con el IBAN cambiado. Un «empleado del banco» que le pide mover su dinero a una «cuenta segura». En los dos casos, el nombre no cuadrará."
+        },
+        {
+          "titulo": "Tres reglas",
+          "texto": "1. Escriba el nombre completo del destinatario, no un apodo.\n2. Si sale «no coincidente», pare y llame al destinatario a su número de siempre.\n3. Nunca continúe porque alguien al teléfono le diga que es normal."
+        },
+        {
+          "titulo": "¿Hablamos?",
+          "texto": "Si en su empresa pagan facturas por transferencia, le ayudamos a fijar un procedimiento antifraude. Escríbanos por mensaje."
+        }
+      ],
+      "caption": "Resulta que, antes de cada transferencia, su banco ya comprueba a nombre de quién está la cuenta. 🏦\n\nDesde el 9 de octubre de 2025 todos los bancos deben ofrecer gratis la «verificación del beneficiario» en transferencias en euros, normales o inmediatas. Si el nombre no coincide con el titular del IBAN, se lo dirá.\n\nOjo: si le sale «no coincidente» o «casi coincidente» y aun así continúa, el dinero se envía igualmente y el banco no responde si acaba en otras manos.\n\nEs su mejor aliado contra las facturas con el IBAN cambiado y contra los falsos «departamentos antifraude». Si el aviso salta: pare y llame al destinatario a su número de siempre.\n\nFuente: Banco de España, Portal del Cliente Bancario.\n\n¿Hablamos? Escríbanos por mensaje.\n\n#InteraSec #Asturias #Ciberseguridad #Transferencias #FraudeBancario #Pymes #ResultaQue",
+      "estado": "pendiente"
+    },
     {
       "id": "2026-11-19-pm-1",
       "creada": "2026-11-19T16:53:48+00:00",
