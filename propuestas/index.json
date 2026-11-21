@@ -1,6 +1,51 @@
 {
-  "actualizado": "2026-11-20T16:55:24+00:00",
+  "actualizado": "2026-11-21T16:53:58+00:00",
   "items": [
+    {
+      "id": "2026-11-21-pm-1",
+      "creada": "2026-11-21T16:53:58+00:00",
+      "serie": "enganan",
+      "formato": "reel",
+      "titulo": "¿Era cliente de Renfe? Cuidado con el correo de la «compensación»",
+      "gancho": "Le escriben de «Renfe» con su nombre, su DNI y su último viaje. Puede que no sea Renfe.",
+      "resumen": "Renfe está avisando a sus clientes de un acceso no autorizado a sus sistemas de venta de billetes (24 de septiembre de 2026). Se vieron expuestos datos identificativos y de contacto, DNI/NIE, el historial de billetes y viajes y las contraseñas (cifradas). Con esos datos, un estafador puede escribir un correo o SMS muy creíble sobre viajes, reservas o «compensaciones». Renfe pide cambiar la contraseña y no dar claves, códigos ni datos bancarios por correo, SMS o teléfono.",
+      "datos_clave": [
+        "Acceso no autorizado detectado por Renfe Viajeros; se habría producido el 24 de septiembre de 2026 en sistemas relacionados con la venta de billetes (aviso oficial de Renfe).",
+        "Datos afectados: identificativos y de contacto, billetes y viajes, DNI/NIE u otros documentos, y contraseñas protegidas criptográficamente (aviso oficial de Renfe).",
+        "Renfe no cita datos de pago entre los afectados ni da cifra de afectados.",
+        "Renfe recomienda cambiar la contraseña cuanto antes (y en otros servicios si se repite) y desconfiar de mensajes sobre viajes, reservas, incidencias o compensaciones económicas.",
+        "Esta semana (20-21 nov 2026) Renfe ha enviado avisos individuales a sus clientes, según la prensa; la noticia de una detención publicada en medios NO aparece en el aviso oficial, por eso no se usa."
+      ],
+      "fuentes": [
+        {
+          "titulo": "Renfe – Notificación a personas afectadas (aviso oficial del incidente)",
+          "url": "https://www.renfe.com/es/es/ayuda/notificacion-personas-afectadas",
+          "fecha": "2026-11-21"
+        },
+        {
+          "titulo": "The Objective – Detenido el sospechoso del ciberataque a los sistemas de Renfe y Adif (comunicado de Renfe a clientes)",
+          "url": "https://theobjective.com/economia/transporte/2026-11-20/detenido-sospechoso-ciberataque-sistemas-renfe-adif/",
+          "fecha": "2026-11-20"
+        },
+        {
+          "titulo": "El Output – Renfe pide cambiar contraseñas tras el ciberataque",
+          "url": "https://eloutput.com/noticias/general/renfe-pide-cambiar-contrasenas-tras-el-ciberataque-la-guardia-civil-detuvo-en-octubre-al-presunto-autor/",
+          "fecha": "2026-11-21"
+        }
+      ],
+      "guion": [
+        "Le escriben de «Renfe» con su nombre, su DNI y su último viaje. Puede que no sea Renfe.",
+        "Renfe ha confirmado un acceso no autorizado a sus sistemas de venta de billetes.",
+        "Se expusieron nombres, contactos, DNI, viajes y contraseñas cifradas.",
+        "Con eso, un estafador puede escribirle un mensaje casi perfecto.",
+        "Suele hablar de una reserva, una incidencia o una «compensación».",
+        "Si tiene cuenta en Renfe, cambie hoy su contraseña. Y en cualquier otra web donde use la misma.",
+        "Nunca dé claves, códigos ni datos bancarios por correo, SMS o teléfono.",
+        "¿Dudas? Entre usted mismo en renfe.com o llame al 017."
+      ],
+      "caption": "¿Ha comprado billetes de Renfe? Lea esto antes de abrir su próximo correo. 🚆\n\nRenfe ha confirmado un acceso no autorizado a sus sistemas de venta de billetes, ocurrido el 24 de septiembre. Según su aviso oficial, quedaron expuestos datos de contacto, DNI o NIE, el historial de billetes y viajes, y las contraseñas (protegidas con cifrado).\n\nEl peligro ahora son los mensajes falsos: un correo, SMS o llamada que conoce su nombre y su último viaje parece de fiar. No lo es por eso.\n\n✅ Si tiene cuenta en Renfe, cambie la contraseña. Y también en otras webs donde use la misma.\n✅ Desconfíe de mensajes sobre reservas, incidencias o «compensaciones económicas».\n✅ No facilite contraseñas, códigos de verificación ni datos bancarios por correo, SMS o teléfono.\n✅ Ante la duda, entre usted mismo en la web oficial, sin pulsar enlaces. Y si necesita ayuda, llame al 017 (INCIBE).\n\nFuente: aviso oficial de Renfe a las personas afectadas.\n\n¿Hablamos? Escríbanos por mensaje.\n\n#InteraSec #Asturias #Ciberseguridad #Renfe #Phishing #Estafas #ProtecciónDeDatos",
+      "estado": "pendiente"
+    },
     {
       "id": "2026-11-20-pm-1",
       "creada": "2026-11-20T16:55:24+00:00",
