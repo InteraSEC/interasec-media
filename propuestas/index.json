@@ -1,6 +1,47 @@
 {
-  "actualizado": "2026-11-21T16:53:58+00:00",
+  "actualizado": "2026-11-22T16:54:39+00:00",
   "items": [
+    {
+      "id": "2026-11-22-pm-1",
+      "creada": "2026-11-22T16:54:39+00:00",
+      "serie": "empresa",
+      "formato": "reel",
+      "titulo": "Su firewall SonicWall Gen 6 ya no recibe parches: ni siquiera para fallos críticos",
+      "gancho": "Su firewall sigue encendido. Pero el fabricante ya no lo arregla.",
+      "resumen": "SonicWall publicó el 18/11/2026 un aviso pidiendo retirar todos los firewalls Gen 6 y Gen 6.5 (SonicOS 6.x): ya no reciben actualizaciones ni parches de ningún tipo, tampoco para vulnerabilidades críticas, y el soporte no se puede renovar. Recomienda migrar a Gen 8 y, mientras tanto, reducir la exposición. Muy relevante para pymes con equipos TZ/SOHO instalados hace años.",
+      "datos_clave": [
+        "Aviso de SonicWall publicado el 18 de noviembre de 2026: «Product Advisory: Retire Unsupported Gen 6 Firewalls»",
+        "Afecta a todos los Gen 6 y Gen 6.5 con SonicOS 6.x, incluidos los NSv virtuales",
+        "Sin parches «whatever the severity», incluso críticos; la FAQ responde «No» a hacer excepciones",
+        "Modelos habituales en pymes ya fuera de soporte: TZ300/TZ300W (ene 2025), TZ400/TZ600 (ago 2026), TZ350/TZ500, SOHO 250 (oct 2026), SOHO/SOHO W, TZ300P (abr 2026)",
+        "Medidas provisionales: desactivar administración por WAN (HTTPS, SSH, SNMP), desactivar o restringir la SSL VPN, MFA en todos los accesos remotos y de administración, cambiar contraseñas locales",
+        "El propio aviso advierte que estas medidas reducen la exposición pero no hacen seguro un firewall sin soporte; recomienda migrar a Gen 8 (SonicOS 8)"
+      ],
+      "fuentes": [
+        {
+          "titulo": "SonicWall – Product Advisory: Retire Unsupported Gen 6 Firewalls",
+          "url": "https://www.sonicwall.com/support/notices/product-advisory-retire-unsupported-gen-6-firewalls/kA1VN000002iouP0AQ",
+          "fecha": "2026-11-18"
+        },
+        {
+          "titulo": "The Hacker News – SonicWall warns Gen 6 firewalls won't get patches",
+          "url": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
+          "fecha": "2026-11-20"
+        }
+      ],
+      "guion": [
+        "Su firewall sigue encendido. Pero el fabricante ya no lo arregla.",
+        "SonicWall lo ha avisado este 18 de noviembre: sus firewalls Gen 6 ya no reciben parches.",
+        "Ni uno. Ni siquiera si aparece un fallo crítico.",
+        "Son modelos muy comunes en oficinas: TZ, SOHO y NSA con SonicOS 6.",
+        "Mire la etiqueta del equipo o pregunte a quien le lleva la informática.",
+        "Mientras lo sustituye, cierre la administración desde internet y limite la VPN.",
+        "Y active la verificación en dos pasos en todos los accesos remotos.",
+        "Un firewall sin parches es una cerradura que ya nadie repara. ¿Hablamos? Escríbanos por mensaje."
+      ],
+      "caption": "Su firewall sigue funcionando… pero ya no lo protege nadie. 🔒\n\nSonicWall ha publicado un aviso (18 de noviembre de 2026): todos sus firewalls Gen 6 y Gen 6.5 con SonicOS 6.x ya no reciben actualizaciones de seguridad. Tampoco para fallos críticos. Y el soporte ya no se puede renovar.\n\nSon equipos muy habituales en pymes: series TZ, SOHO, NSA y NSa.\n\nQué hacer:\n✅ Compruebe el modelo y la versión de su firewall.\n✅ Si es Gen 6, planifique ya su sustitución.\n✅ Mientras tanto: desactive la administración desde internet, limite la VPN a direcciones conocidas y active la verificación en dos pasos en todos los accesos remotos.\n\nEl propio fabricante lo deja claro: estas medidas reducen el riesgo, pero no hacen seguro un equipo sin soporte.\n\n¿No sabe qué firewall tiene? Se lo revisamos. ¿Hablamos? Escríbanos por mensaje.\n\nFuente: aviso oficial de SonicWall.\n\n#InteraSec #Asturias #Ciberseguridad #Pymes #Firewall #SonicWall #SeguridadInformática #Empresas",
+      "estado": "pendiente"
+    },
     {
       "id": "2026-11-21-pm-1",
       "creada": "2026-11-21T16:53:58+00:00",
