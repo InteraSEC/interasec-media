@@ -1,6 +1,72 @@
 {
-  "actualizado": "2026-11-22T16:54:39+00:00",
+  "actualizado": "2026-11-23T16:53:57+00:00",
   "items": [
+    {
+      "id": "2026-11-23-pm-1",
+      "creada": "2026-11-23T16:53:57+00:00",
+      "serie": "resulta",
+      "formato": "carrusel",
+      "titulo": "Resulta que el asistente de su móvil puede leer lo que tiene en pantalla, incluidos sus chats",
+      "gancho": "Su asistente de voz puede leer sus mensajes privados. Aunque la app sea cifrada.",
+      "resumen": "Los nuevos asistentes con IA integrados en el sistema (Siri con «Onscreen Awareness» en iOS 27, Gemini en Android) pueden usar lo que aparece en pantalla, incluidos chats privados. Signal ha anunciado que bloqueará esa lectura en iOS 27 y en Android compatibles. La EFF explica cómo excluir apps de Siri (iOS 27.2) y cómo limitar el contexto de pantalla de Gemini. Curiosidad útil con consejo práctico para cualquier usuario y para móviles de empresa.",
+      "datos_clave": [
+        "BleepingComputer (22/11/2026): Signal anuncia protecciones para que Siri y Gemini no capturen conversaciones; en iOS 27 también bloquea capturas de pantalla dentro de la app",
+        "Meredith Whittaker (presidenta de Signal) señala funciones como «Onscreen Awareness» de Siri y «Gemini Intelligence» de Google, que pueden capturar el chat tal como aparece en pantalla",
+        "En Android, Signal activa automáticamente «Screen Security» si detecta que un asistente intenta leer la pantalla; en macOS no puede bloquear capturas y recomienda excluir la app de Siri",
+        "EFF (28/10/2026): desde iOS 27.2 se pueden excluir apps de Siri en Ajustes > Siri > apps excluidas; con la app excluida, Siri no puede acceder a su contenido",
+        "EFF: en Android, Gemini puede usar contexto de pantalla salvo que se desactive «Use screen and app data» (Device controls > Screen context); el control no es por app",
+        "Pendiente: el blog original de Signal no se pudo abrir en esta ejecución; los detalles de Signal proceden de BleepingComputer, que lo cita. Conviene revisarlo antes de publicar"
+      ],
+      "fuentes": [
+        {
+          "titulo": "BleepingComputer – Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+          "url": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+          "fecha": "2026-11-22"
+        },
+        {
+          "titulo": "EFF – Victory! You can now exclude apps from Siri AI",
+          "url": "https://www.eff.org/deeplinks/2026/10/victory-you-can-now-exclude-apps-siri-ai",
+          "fecha": "2026-10-28"
+        },
+        {
+          "titulo": "Signal – blog (anuncio original, sin verificar en esta ejecución)",
+          "url": "https://signal.org/blog/protecting-your-privacy/",
+          "fecha": "2026-11-22"
+        }
+      ],
+      "diapositivas": [
+        {
+          "titulo": "Su asistente de voz puede leer sus mensajes privados.",
+          "texto": "Aunque la app sea cifrada. Le explicamos por qué y cómo evitarlo."
+        },
+        {
+          "titulo": "¿Cómo es posible?",
+          "texto": "Los nuevos asistentes con IA, como Siri en iOS 27 o Gemini en Android, pueden «ver» lo que hay en su pantalla para ayudarle. Y eso incluye un chat abierto."
+        },
+        {
+          "titulo": "El cifrado protege el camino, no la pantalla",
+          "texto": "Un mensaje cifrado viaja protegido. Pero cuando lo lee, aparece en claro en su pantalla. Ahí es donde el asistente puede capturarlo."
+        },
+        {
+          "titulo": "Signal ya ha reaccionado",
+          "texto": "La app de mensajería Signal ha anunciado que bloqueará esa lectura en iOS 27 y en móviles Android compatibles. Lo llama una amenaza para la privacidad de todos los que participan en la conversación."
+        },
+        {
+          "titulo": "En iPhone",
+          "texto": "Desde iOS 27.2: Ajustes > Siri > apps excluidas. Añada las apps con información sensible: mensajería, banco, correo de trabajo. Siri ya no podrá leer su contenido."
+        },
+        {
+          "titulo": "En Android",
+          "texto": "Revise los ajustes de Gemini: apps conectadas y uso del contenido de la pantalla. Si no lo utiliza, desactívelo."
+        },
+        {
+          "titulo": "¿Móviles de empresa?",
+          "texto": "Revise estos ajustes en los teléfonos de su equipo. Datos de clientes y conversaciones internas también pasan por la pantalla. ¿Hablamos? Escríbanos por mensaje."
+        }
+      ],
+      "caption": "Resulta que el asistente de su móvil puede leer lo que tiene en pantalla. También sus chats.\n\nLos nuevos asistentes con inteligencia artificial, como Siri en iOS 27 o Gemini en Android, usan lo que aparece en pantalla para ayudarle. El cifrado protege sus mensajes mientras viajan, pero no cuando los está leyendo.\n\nLa app de mensajería Signal ya ha anunciado que bloqueará esa lectura. Y usted también puede limitarla:\n📱 iPhone (iOS 27.2 o posterior): Ajustes > Siri > apps excluidas.\n🤖 Android: revise en Gemini las apps conectadas y el uso del contenido de la pantalla.\n\nSi su empresa usa móviles corporativos, conviene revisarlo en todos. ¿Hablamos? Escríbanos por mensaje.\n\n#InteraSec #Asturias #Ciberseguridad #Privacidad #InteligenciaArtificial #Siri #Gemini #Pymes",
+      "estado": "pendiente"
+    },
     {
       "id": "2026-11-22-pm-1",
       "creada": "2026-11-22T16:54:39+00:00",
