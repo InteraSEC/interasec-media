@@ -1,6 +1,77 @@
 {
-  "actualizado": "2026-11-23T16:53:57+00:00",
+  "actualizado": "2026-11-25T16:55:11+00:00",
   "items": [
+    {
+      "id": "2026-11-25-pm-1",
+      "creada": "2026-11-25T16:55:11+00:00",
+      "serie": "resulta",
+      "formato": "carrusel",
+      "titulo": "Resulta que, si le cargan un pago que usted no hizo, su banco tiene hasta el día hábil siguiente para devolvérselo",
+      "gancho": "Le cargan una compra que usted no hizo. Su banco tiene hasta mañana para devolverle el dinero.",
+      "resumen": "Antes del Black Friday, recordatorio práctico de un derecho poco conocido: el art. 45 del Real Decreto-ley 19/2018 obliga al banco a devolver de inmediato, y como tarde al final del día hábil siguiente, las operaciones que el cliente no autorizó. El cliente debe avisar sin demora (máximo 13 meses). El TJUE (asunto C-70/25, según el análisis de la Abogacía Española) ha precisado que la mera sospecha de negligencia grave no permite al banco retrasar la devolución. Matiz importante: si fue el propio cliente quien hizo la transferencia engañado, el caso es distinto.",
+      "datos_clave": [
+        "RDL 19/2018, art. 45.1: devolución «de inmediato y, en cualquier caso, a más tardar al final del día hábil siguiente» a la notificación",
+        "Excepción: que el banco tenga motivos razonables para sospechar fraude y lo comunique por escrito al Banco de España",
+        "Art. 43.1: avisar «sin demora injustificada» y, en todo caso, dentro de 13 meses desde el cargo",
+        "Art. 46.1: el cliente puede soportar hasta 50 € de pérdida; todas si actuó con fraude o negligencia grave",
+        "TJUE C-665/23 (Veracash), 1-8-2025: si tarda en avisar sin justificación puede perder el derecho, aunque esté dentro de los 13 meses",
+        "TJUE C-70/25 (según Abogacía Española, 21-10-2026): la sospecha de negligencia grave no permite retrasar la devolución"
+      ],
+      "fuentes": [
+        {
+          "titulo": "BOE – Real Decreto-ley 19/2018, de servicios de pago (texto consolidado), arts. 43, 45 y 46",
+          "url": "https://boe.es/buscar/pdf/2018/BOE-A-2018-16036-consolidado.pdf",
+          "fecha": "2018-11-24"
+        },
+        {
+          "titulo": "TJUE – Comunicado de prensa 97/25, asunto C-665/23 (Veracash)",
+          "url": "https://curia.europa.eu/jcms/jcms/p1_5071819/sl",
+          "fecha": "2025-08-01"
+        },
+        {
+          "titulo": "Abogacía Española – El TJUE obliga a los bancos a devolver de inmediato el dinero sustraído por phishing (C-70/25)",
+          "url": "https://www.abogacia.es/actualidad/opinion-y-analisis/el-tjue-obliga-a-los-bancos-a-devolver-de-inmediato-el-dinero-sustraido-por-phishing/",
+          "fecha": "2026-10-21"
+        },
+        {
+          "titulo": "Banco de España – Portal del Cliente Bancario",
+          "url": "https://clientebancario.bde.es/",
+          "fecha": "2026-11-25"
+        }
+      ],
+      "diapositivas": [
+        {
+          "titulo": "Le cargan una compra que usted no hizo.",
+          "texto": "Su banco tiene hasta el final del día hábil siguiente para devolverle el dinero. Lo dice la ley."
+        },
+        {
+          "titulo": "Lo dice la ley",
+          "texto": "Si usted no autorizó el pago, el banco debe devolverlo «de inmediato» y, como tarde, al final del día hábil siguiente a su aviso (art. 45 del Real Decreto-ley 19/2018)."
+        },
+        {
+          "titulo": "Avise cuanto antes",
+          "texto": "La ley da un máximo de 13 meses desde el cargo, pero exige avisar «sin demora injustificada». El Tribunal de Justicia de la UE ha dejado claro que, si tarda sin motivo, puede perder el derecho."
+        },
+        {
+          "titulo": "«Es que usted fue descuidado»",
+          "texto": "Eso no basta para retrasar la devolución. El banco devuelve primero; si después demuestra un descuido grave suyo, puede reclamárselo. Solo puede frenarla si sospecha fraude por su parte y lo comunica por escrito al Banco de España."
+        },
+        {
+          "titulo": "Qué hacer, paso a paso",
+          "texto": "1. Llame al banco y bloquee la tarjeta. 2. Comunique por escrito qué cargos no reconoce y guarde el justificante con fecha. 3. Denuncie en Policía o Guardia Civil. 4. Si no le responden, reclame al servicio de atención al cliente y después al Banco de España."
+        },
+        {
+          "titulo": "Ojo: no siempre es así",
+          "texto": "Si fue usted quien hizo la transferencia, engañado por un falso familiar o un falso empleado, la ley lo trata como un pago que usted autorizó y es más difícil de recuperar. Denuncie igualmente y pida consejo."
+        },
+        {
+          "titulo": "¿Tiene dudas con un cargo?",
+          "texto": "Le ayudamos a ordenar los pasos. ¿Hablamos? Escríbanos por mensaje. Información general, no asesoramiento jurídico."
+        }
+      ],
+      "caption": "¿Le han cargado una compra que usted no hizo? 💳\n\nResulta que la ley obliga a su banco a devolverle el dinero de inmediato y, como tarde, al final del día hábil siguiente a su aviso (art. 45 del Real Decreto-ley 19/2018).\n\nLo que conviene saber:\n✅ Avise cuanto antes. El plazo máximo es de 13 meses, pero si tarda sin motivo puede perder el derecho.\n✅ Comuníquelo por escrito y guarde el justificante.\n✅ Denuncie en Policía o Guardia Civil.\n✅ Si el banco no responde, reclame a su servicio de atención al cliente y después al Banco de España.\n\n⚠️ Si fue usted quien hizo la transferencia, engañado por una llamada o un mensaje, el caso es distinto y más difícil de recuperar. Denuncie igualmente.\n\nCon el Black Friday a la vuelta de la esquina, guárdese este post.\n\nInformación general, no asesoramiento jurídico. ¿Hablamos? Escríbanos por mensaje.\n\n#InteraSec #Asturias #Ciberseguridad #BlackFriday #Estafas #Phishing #Banca #ConsejosDeSeguridad",
+      "estado": "pendiente"
+    },
     {
       "id": "2026-11-23-pm-1",
       "creada": "2026-11-23T16:53:57+00:00",
