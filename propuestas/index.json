@@ -1,6 +1,116 @@
 {
-  "actualizado": "2026-11-25T16:55:11+00:00",
+  "actualizado": "2026-11-26T16:54:27+00:00",
   "items": [
+    {
+      "id": "2026-11-26-pm-1",
+      "creada": "2026-11-26T16:54:27+00:00",
+      "serie": "enganan",
+      "formato": "reel",
+      "titulo": "El anuncio de fondos de pantalla gratis que le roba la cuenta de Facebook (y lee su correo)",
+      "gancho": "Este anuncio le regala fondos de pantalla. Y se lleva su cuenta de Facebook.",
+      "resumen": "Bitdefender Labs ha destapado SYS010, una campaña de anuncios en Meta que ofrece fondos de pantalla animados gratis imitando a Wallpaper Engine. El programa funciona, pero en segundo plano instala extensiones en el navegador que roban las cookies de sesión (entran sin contraseña ni verificación en dos pasos), recogen datos de cuentas publicitarias y páginas de empresa, y leen y borran correos de Gmail y Outlook, incluidas alertas de seguridad. Activa desde el 16 de octubre; España aparece entre los países con actividad. Útil también para pymes que gestionan su publicidad en Facebook o Instagram.",
+      "datos_clave": [
+        "Campaña SYS010, publicada por Bitdefender Labs el 26-11-2026",
+        "Primer anuncio malicioso identificado: 16 de octubre de 2026; «dozens of ads» desde entonces",
+        "Un solo anuncio llegó a más de 6.000 personas",
+        "Imita a Wallpaper Engine (dominio falso wallpapersengine[.]com); el señuelo es una app legítima renombrada",
+        "Roba cookies de sesión: acceso sin contraseña ni 2FA; datos de cuentas publicitarias, Business Manager y páginas de Meta",
+        "Extensiones «Docs Helper» (Chrome) y «Document Hub» (Firefox); leen hasta 50 correos recientes de Gmail/Outlook y borran alertas y códigos",
+        "Señal de alerta: el navegador dice «administrado por su organización» sin motivo; el aviso de permisos de Windows se repite una y otra vez",
+        "España figura en la lista de países con solicitudes a la infraestructura (sin cifras propias)"
+      ],
+      "fuentes": [
+        {
+          "titulo": "Bitdefender Labs – SYS010 Reloaded: malvertising campaign targeting Meta business accounts",
+          "url": "https://www.bitdefender.com/en-us/blog/labs/sys010-reloaded-malvertising-campaign-targeting-meta-business-accounts",
+          "fecha": "2026-11-26"
+        },
+        {
+          "titulo": "BleepingComputer – SYS010 malware abuses browser management to spy on Gmail, Outlook",
+          "url": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+          "fecha": "2026-11-26"
+        }
+      ],
+      "guion": [
+        "Este anuncio le regala fondos de pantalla. Y se lleva su cuenta de Facebook.",
+        "Sale en Facebook e Instagram: «fondos animados gratis para su ordenador».",
+        "Lo instala, y el fondo funciona. Por eso nadie sospecha.",
+        "Mientras, mete una extensión en su navegador que copia sus sesiones abiertas.",
+        "Con eso entran en sus cuentas sin contraseña y sin código.",
+        "Y puede leer su correo y borrar los avisos de seguridad.",
+        "Un solo anuncio llegó a más de 6.000 personas. Lo ha destapado Bitdefender.",
+        "Descargue programas solo de su web oficial, nunca desde un anuncio.",
+        "Si su navegador dice «administrado por su organización» y no es de empresa, avísenos."
+      ],
+      "caption": "Un anuncio le ofrece fondos de pantalla animados gratis para el ordenador. Lo descarga, funciona… y, en segundo plano, le instala una extensión en el navegador que roba sus sesiones abiertas.\n\nEs la campaña SYS010, destapada por Bitdefender este 26 de noviembre. Con esas sesiones entran en Facebook, en cuentas de anuncios de empresa y en el correo sin necesidad de contraseña ni de código. Incluso borran los avisos de seguridad para que usted no se entere.\n\nCómo protegerse:\n✅ Descargue programas solo desde la web oficial, nunca desde un anuncio en redes.\n✅ Si Windows le pide permisos una y otra vez, cancele.\n✅ Si su navegador pone «administrado por su organización» y es un equipo personal, algo va mal.\n✅ Si gestiona la publicidad de su negocio, revise quién tiene acceso a su cuenta de Meta.\n\n¿Cree que le ha pasado? ¿Hablamos? Escríbanos por mensaje.\n\n#InteraSec #Asturias #Ciberseguridad #Estafas #Facebook #Instagram #Malware #Pymes",
+      "estado": "pendiente"
+    },
+    {
+      "id": "2026-11-26-pm-2",
+      "creada": "2026-11-26T16:54:27+00:00",
+      "serie": "empresa",
+      "formato": "carrusel",
+      "titulo": "¿Su web está hecha con Drupal? Un fallo crítico ya se usa para quitarle el control",
+      "gancho": "Su web puede tener un botón de «reinstalar» que cualquiera puede pulsar.",
+      "resumen": "Drupal publicó el 18-11-2026 el aviso SA-CORE-2026-017 (riesgo «Highly critical», 20/25): en ciertas condiciones, el instalador install.php permite reinstalar el sitio y acabar en toma de la web o ejecución remota de código. El equipo de seguridad de Drupal confirma explotación en webs reales desde el 19-11-2026. Solución: actualizar a 10.6.22, 11.3.22 u 11.4.13, o bloquear el instalador mientras tanto. Drupal 8, 9, 10.5 y 11.2 o anteriores ya no reciben parches. Sirve para un mensaje más amplio: la web de la empresa también necesita mantenimiento.",
+      "datos_clave": [
+        "Aviso SA-CORE-2026-017, publicado 18-11-2026 (actualizado 21-11-2026), riesgo «Highly critical» 20/25",
+        "CVE-2026-132165 (según el aviso)",
+        "Afectadas: versiones anteriores a 10.6.22, 11.0–11.3.21 y 11.4.0–11.4.12",
+        "Corregidas: Drupal 10.6.22, 11.3.22 y 11.4.13",
+        "Explotado en webs reales «as early as 2026-11-19 19:00 UTC» (equipo de seguridad de Drupal)",
+        "Sin soporte de seguridad: Drupal 8, 9, 10.5.x y 11.2.x o anteriores",
+        "Mitigación temporal: bloquear o proteger /core/install.php"
+      ],
+      "fuentes": [
+        {
+          "titulo": "Drupal – SA-CORE-2026-017: Drupal core – Highly critical – Remote code execution",
+          "url": "https://www.drupal.org/sa-core-2026-017",
+          "fecha": "2026-11-18"
+        },
+        {
+          "titulo": "BleepingComputer – Hackers now exploit critical Drupal RCE flaw to hijack sites",
+          "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
+          "fecha": "2026-11-25"
+        }
+      ],
+      "diapositivas": [
+        {
+          "titulo": "Su web puede tener un botón de «reinstalar» que cualquiera puede pulsar.",
+          "texto": "Si está hecha con Drupal, revise esto hoy."
+        },
+        {
+          "titulo": "Qué ha pasado",
+          "texto": "Drupal ha publicado un aviso de riesgo «altamente crítico»: en ciertas condiciones, el instalador permite reinstalar la web y tomar su control."
+        },
+        {
+          "titulo": "Ya se está usando",
+          "texto": "El equipo de seguridad de Drupal confirma ataques a webs reales desde el 19 de noviembre."
+        },
+        {
+          "titulo": "Qué puede pasar",
+          "texto": "Le cambian la web, la usan para engañar a sus clientes o la dejan caída. Y su buen nombre va detrás."
+        },
+        {
+          "titulo": "Qué hacer",
+          "texto": "Actualizar a Drupal 10.6.22, 11.3.22 u 11.4.13. Si no puede hoy, que bloqueen el acceso al instalador (install.php)."
+        },
+        {
+          "titulo": "¿Versión antigua?",
+          "texto": "Drupal 8, 9, 10.5 o 11.2 y anteriores ya no reciben parches. Toca actualizar o migrar."
+        },
+        {
+          "titulo": "¿No sabe con qué está hecha su web?",
+          "texto": "Pregunte a quien se la hizo. Y pida que alguien se ocupe de actualizarla: una web también necesita mantenimiento."
+        },
+        {
+          "titulo": "¿Hablamos?",
+          "texto": "Revisamos su web y le decimos qué hay que hacer. Escríbanos por mensaje."
+        }
+      ],
+      "caption": "Si la web de su empresa está hecha con Drupal, revise esto hoy.\n\nEl 18 de noviembre, Drupal publicó un aviso de riesgo «altamente crítico»: en determinadas condiciones, el instalador de la web permite reinstalarla y hacerse con su control. Desde el 19 de noviembre ya hay ataques a webs reales.\n\nQué hacer:\n✅ Actualizar a Drupal 10.6.22, 11.3.22 u 11.4.13.\n✅ Si no se puede hoy, bloquear el acceso al instalador (install.php).\n✅ Si usa Drupal 8, 9, 10.5 o 11.2 y anteriores, ya no recibe parches: toca actualizar o migrar.\n\n¿No sabe con qué está hecha su web ni quién la actualiza? ¿Hablamos? Escríbanos por mensaje.\n\n#InteraSec #Asturias #Ciberseguridad #Pymes #Drupal #PaginaWeb #Empresas",
+      "estado": "pendiente"
+    },
     {
       "id": "2026-11-25-pm-1",
       "creada": "2026-11-25T16:55:11+00:00",
