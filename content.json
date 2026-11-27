@@ -1329,7 +1329,7 @@
    "kind": "reel",
    "cat": "enganan",
    "title": "Esa oferta del 70 % es de una tienda que no existe.",
-   "caption": "Esa oferta del 70 % es de una tienda que no existe.\n\nEn Navidad aparecen webs copiadas de marcas famosas, con precios imposibles. Solo aceptan transferencia o Bizum. Y el pedido nunca llega. Antes de pagar, compruebe tres cosas. Si el precio es demasiado bueno, desconfíe.\n\nCompártalo con quien pueda caer. Y síganos para no caer en la próxima.\n\nFuente: INCIBE, consejos para compras online.\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#estafas #ciberseguridad #phishing #Asturias #InteraSec",
+   "caption": "Esa oferta del 70 % es de una tienda que no existe.\n\nEn Navidad aparecen webs copiadas de marcas famosas, con precios imposibles. Solo aceptan transferencia o Bizum. Y el pedido nunca llega. Antes de pagar, compruebe tres cosas: dirección exacta de la web, opiniones fuera de la tienda y pago con tarjeta, nunca transferencia. Si el precio es demasiado bueno, desconfíe.\n\nCompártalo con quien pueda caer. Y síganos para no caer en la próxima.\n\nFuente: INCIBE, consejos para compras online.\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#estafas #ciberseguridad #phishing #Asturias #InteraSec",
    "media": [
     "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a18_tienda_falsa.mp4"
    ],
@@ -1376,6 +1376,818 @@
     "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b02_fotos.mp4"
    ],
    "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b02_fotos_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b01_impresora",
+   "kind": "reel",
+   "cat": "resulta",
+   "title": "Su impresora firma cada hoja que imprime.",
+   "caption": "Su impresora firma cada hoja que imprime.\n\nMuchas láser a color añaden unos puntitos amarillos casi invisibles. Esos puntos codifican datos como el número de serie de la impresora. Así se puede saber qué máquina imprimió un documento. ¿Lo sabía? Cuéntenoslo en comentarios.\n\n¿Lo sabía? Cuéntenoslo en comentarios.\n\nFuente: Electronic Frontier Foundation (EFF).\n\n#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b01_impresora.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b01_impresora_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b03_qr_esquinas",
+   "kind": "reel",
+   "cat": "resulta",
+   "title": "¿Por qué los QR tienen tres cuadrados en las esquinas?",
+   "caption": "¿Por qué los QR tienen tres cuadrados en las esquinas?\n\nLe dicen a la cámara dónde está el código, su tamaño y cómo está girado. El QR lo inventó Denso Wave en 1994 para piezas de coche. Lo que el QR no le dice es quién lo ha puesto. Mire siempre la dirección antes de abrirla.\n\n¿Lo sabía? Cuéntenoslo en comentarios.\n\nFuente: Denso Wave, creador del código QR (1994).\n\n#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b03_qr_esquinas.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b03_qr_esquinas_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b04_borrar",
+   "kind": "reel",
+   "cat": "resulta",
+   "title": "Borrar un archivo no lo borra. Ni vaciando la papelera.",
+   "caption": "Borrar un archivo no lo borra. Ni vaciando la papelera.\n\nEl espacio solo se marca como libre. Y los datos se pueden recuperar. Antes de vender o tirar un ordenador o un móvil, haga un borrado seguro. Si es un disco de empresa, mejor destrucción certificada.\n\n¿Lo sabía? Cuéntenoslo en comentarios.\n\nFuente: INCIBE, borrado seguro de la información.\n\n#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b04_borrar.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b04_borrar_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b05_simbolos",
+   "kind": "reel",
+   "cat": "resulta",
+   "title": "Los símbolos raros en la contraseña ya no son la clave.",
+   "caption": "Los símbolos raros en la contraseña ya no son la clave.\n\nLa guía de referencia del NIST pide longitud, no símbolos obligatorios. Al menos 15 caracteres cuando la contraseña es la única protección. Por ejemplo, una frase: mi perro come pan los martes.\n\n¿Lo sabía? Cuéntenoslo en comentarios.\n\nFuente: NIST SP 800-63B, revisión 4 (2025).\n\n#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b05_simbolos.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b05_simbolos_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b06_top",
+   "kind": "reel",
+   "cat": "resulta",
+   "title": "Las contraseñas más usadas en España se descifran en menos de un segundo.",
+   "caption": "Las contraseñas más usadas en España se descifran en menos de un segundo.\n\nadmin, 123456 y 12345678. Si la suya está en la lista, cámbiela hoy. Empiece por la del correo. Del correo se recuperan las contraseñas de todo lo demás.\n\n¿Lo sabía? Cuéntenoslo en comentarios.\n\nFuente: NordPass, contraseñas más comunes (2025).\n\n#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b06_top.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b06_top_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b07_nube",
+   "kind": "reel",
+   "cat": "resulta",
+   "title": "La nube es en realidad un edificio.",
+   "caption": "La nube es en realidad un edificio.\n\nNaves llenas de servidores, con su luz, su refrigeración y su vigilancia. Amazon, Google y Microsoft tienen centros de datos en España. Cuando guarda algo en la nube, está en el ordenador de otra empresa. Proteja su cuenta.\n\n¿Lo sabía? Cuéntenoslo en comentarios.\n\nFuente: anuncios de Amazon, Google y Microsoft.\n\n#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b07_nube.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b07_nube_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b08_cajero",
+   "kind": "reel",
+   "cat": "resulta",
+   "title": "¿Por qué el cajero le devuelve la tarjeta antes que el dinero?",
+   "caption": "¿Por qué el cajero le devuelve la tarjeta antes que el dinero?\n\nPorque usted viene a por el dinero. En cuanto lo tiene, se va. Si la tarjeta saliera después, muchos se la dejarían olvidada. Mucha seguridad se diseña así: contra los errores humanos de siempre.\n\n¿Lo sabía? Cuéntenoslo en comentarios.\n\n#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b08_cajero.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b08_cajero_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b09_pin",
+   "kind": "reel",
+   "cat": "resulta",
+   "title": "¿Por qué el móvil le pide el PIN aunque use la cara?",
+   "caption": "¿Por qué el móvil le pide el PIN aunque use la cara?\n\nAl reiniciar, el PIN es lo que desbloquea el cifrado de sus datos. La cara o la huella solo valen cuando el móvil ya está desbloqueado una vez. Por eso un 1234 o su fecha de nacimiento son tan mala idea.\n\n¿Lo sabía? Cuéntenoslo en comentarios.\n\nFuente: documentación de seguridad de Apple y Android.\n\n#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b09_pin.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b09_pin_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b10_incognito",
+   "kind": "reel",
+   "cat": "resulta",
+   "title": "El modo incógnito no le hace invisible.",
+   "caption": "El modo incógnito no le hace invisible.\n\nSolo evita que su navegador guarde el historial en ese equipo. Su operador, la red de su empresa y las webs donde entra siguen sabiendo qué hace. Úselo para un ordenador compartido. No para esconderse.\n\n¿Lo sabía? Cuéntenoslo en comentarios.\n\nFuente: ayuda oficial de Chrome.\n\n#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b10_incognito.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b10_incognito_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b11_cookies",
+   "kind": "reel",
+   "cat": "resulta",
+   "title": "¿Por qué todas las webs le preguntan por las cookies?",
+   "caption": "¿Por qué todas las webs le preguntan por las cookies?\n\nPorque la ley exige su permiso para las que no son necesarias, como las de publicidad. Y rechazar debe ser tan fácil como aceptar. Lo dice la Agencia de Protección de Datos. Si una web lo esconde, ya sabe que no lo está haciendo bien.\n\n¿Lo sabía? Cuéntenoslo en comentarios.\n\nFuente: AEPD, guía sobre el uso de cookies.\n\n#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b11_cookies.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b11_cookies_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b12_codigo",
+   "kind": "reel",
+   "cat": "resulta",
+   "title": "¿Por qué el código de verificación caduca tan rápido?",
+   "caption": "¿Por qué el código de verificación caduca tan rápido?\n\nSe calcula con una clave secreta y la hora. Cada 30 segundos, uno nuevo. Si alguien lo ve en su pantalla, ya no le sirve. Y si alguien se lo pide por teléfono, es una estafa. Siempre.\n\n¿Lo sabía? Cuéntenoslo en comentarios.\n\nFuente: estándar TOTP (RFC 6238).\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b12_codigo.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b12_codigo_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b13_arroba",
+   "kind": "reel",
+   "cat": "resulta",
+   "title": "Esta dirección no lleva a su banco. Aunque empiece por su banco.",
+   "caption": "Esta dirección no lleva a su banco. Aunque empiece por su banco.\n\nEn una dirección web, todo lo que va antes de la arroba se ignora. El navegador va a lo que hay después. Y ahí está el estafador. Fíjese siempre en lo que hay justo antes de la primera barra.\n\n¿Lo sabía? Cuéntenoslo en comentarios.\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b13_arroba.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b13_arroba_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b14_numero",
+   "kind": "reel",
+   "cat": "resulta",
+   "title": "Su número de teléfono es la llave de casi todo.",
+   "caption": "Su número de teléfono es la llave de casi todo.\n\nBanco, correo, WhatsApp y redes lo usan para enviarle códigos y recuperar la cuenta. Póngale PIN a la tarjeta SIM y, cuando pueda, use una app de autenticación en vez de SMS.\n\n¿Lo sabía? Cuéntenoslo en comentarios.\n\nFuente: INCIBE, protección de la línea móvil.\n\n#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b14_numero.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b14_numero_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b15_recoger_tarjeta",
+   "kind": "reel",
+   "cat": "enganan",
+   "title": "Somos del banco. Vamos a recoger su tarjeta.",
+   "caption": "Somos del banco. Vamos a recoger su tarjeta.\n\nLe llaman por un cargo sospechoso y le ofrecen mandar a alguien a su casa. Ese mensajero se lleva su tarjeta. Y antes le han sacado el PIN. Ningún banco hace eso. Cuelgue y llame usted al número de su tarjeta.\n\nCompártalo con quien pueda caer. Y síganos para no caer en la próxima.\n\nFuente: Policía Nacional (octubre de 2026).\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#estafas #ciberseguridad #phishing #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b15_recoger_tarjeta.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b15_recoger_tarjeta_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b16_whatsapp_dinero",
+   "kind": "reel",
+   "cat": "enganan",
+   "title": "Su WhatsApp está pidiendo dinero a sus amigos. Y usted no lo sabe.",
+   "caption": "Su WhatsApp está pidiendo dinero a sus amigos. Y usted no lo sabe.\n\nUsan su cuenta, desde otro dispositivo, para pedir dinero a familiares y contactos. Revise los dispositivos vinculados en los ajustes de WhatsApp. Y actualice la app. Y si un conocido le pide dinero, llámele antes de pagar.\n\nCompártalo con quien pueda caer. Y síganos para no caer en la próxima.\n\nFuente: Policía Nacional (30/10/2026).\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#estafas #ciberseguridad #phishing #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b16_whatsapp_dinero.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b16_whatsapp_dinero_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b17_citacion",
+   "kind": "reel",
+   "cat": "enganan",
+   "title": "Un correo de la Policía le acusa de un delito. Y le da 48 horas.",
+   "caption": "Un correo de la Policía le acusa de un delito. Y le da 48 horas.\n\nSuplantan a la Policía, la Guardia Civil o INCIBE con citaciones falsas. El objetivo es asustarle y pedirle dinero para cerrar el caso. No responda. Si ya lo hizo, llame al 017.\n\nCompártalo con quien pueda caer. Y síganos para no caer en la próxima.\n\nFuente: INCIBE.\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#estafas #ciberseguridad #phishing #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b17_citacion.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b17_citacion_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b18_carpeta",
+   "kind": "reel",
+   "cat": "enganan",
+   "title": "Tiene 552 € pendientes de cobro. No los tiene.",
+   "caption": "Tiene 552 € pendientes de cobro. No los tiene.\n\nSon mensajes que suplantan a Mi Carpeta Ciudadana y prometen un ingreso. Mi Carpeta Ciudadana no envía esas notificaciones. No pulse el enlace. Entre siempre usted en la web oficial.\n\nCompártalo con quien pueda caer. Y síganos para no caer en la próxima.\n\nFuente: INCIBE.\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#estafas #ciberseguridad #phishing #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b18_carpeta.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b18_carpeta_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b19_senales",
+   "kind": "reel",
+   "cat": "enganan",
+   "title": "5 señales de que le están estafando. Sirve para todo.",
+   "caption": "5 señales de que le están estafando. Sirve para todo.\n\nPrisa. Miedo o premio. Un enlace o una cuenta nueva. Que le pidan claves o códigos. Y que le pidan secreto. Sirve para SMS, correo, llamadas y WhatsApp. Ante la duda, 017.\n\nCompártalo con quien pueda caer. Y síganos para no caer en la próxima.\n\nFuente: INCIBE, línea de ayuda 017.\n\n#estafas #ciberseguridad #phishing #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b19_senales.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b19_senales_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b20_sim",
+   "kind": "reel",
+   "cat": "enganan",
+   "title": "Se queda sin cobertura. Y le vacían la cuenta.",
+   "caption": "Se queda sin cobertura. Y le vacían la cuenta.\n\nEs el duplicado de SIM: consiguen una tarjeta con su número. Y reciben ellos los SMS de su banco. Si se queda sin servicio sin motivo, llame enseguida a su operador y a su banco.\n\nCompártalo con quien pueda caer. Y síganos para no caer en la próxima.\n\nFuente: INCIBE y Policía Nacional.\n\n#estafas #ciberseguridad #phishing #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b20_sim.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b20_sim_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b21_bizum",
+   "kind": "reel",
+   "cat": "enganan",
+   "title": "Ya le he enviado el Bizum, acéptelo. Y el que paga es usted.",
+   "caption": "Ya le he enviado el Bizum, acéptelo. Y el que paga es usted.\n\nVende algo de segunda mano y el comprador le manda una solicitud. Pero una solicitud es para pedir dinero. Si la acepta, paga usted. Para recibir un Bizum no hay que aceptar nada.\n\nCompártalo con quien pueda caer. Y síganos para no caer en la próxima.\n\nFuente: Bizum, consejos de seguridad.\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#estafas #ciberseguridad #phishing #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b21_bizum.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b21_bizum_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b22_soporte",
+   "kind": "reel",
+   "cat": "enganan",
+   "title": "Le llaman de soporte técnico: su ordenador tiene un virus.",
+   "caption": "Le llaman de soporte técnico: su ordenador tiene un virus.\n\nLe piden instalar un programa para arreglarlo a distancia. Con ese programa controlan su ordenador. Y su banca online. Las grandes empresas no llaman para eso. Si ya lo instaló, desconecte internet y llame al 017.\n\nCompártalo con quien pueda caer. Y síganos para no caer en la próxima.\n\nFuente: INCIBE.\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#estafas #ciberseguridad #phishing #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b22_soporte.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b22_soporte_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b23_famoso",
+   "kind": "reel",
+   "cat": "enganan",
+   "title": "Un famoso le recomienda invertir. No es él.",
+   "caption": "Un famoso le recomienda invertir. No es él.\n\nUsan su imagen, noticias falsas y hasta vídeos creados con inteligencia artificial. Le prometen rentabilidades altas y seguras. Eso no existe. Antes de invertir, compruebe si la entidad está registrada en la CNMV.\n\nCompártalo con quien pueda caer. Y síganos para no caer en la próxima.\n\nFuente: CNMV, advertencias sobre chiringuitos.\n\n#estafas #ciberseguridad #phishing #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b23_famoso.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b23_famoso_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b24_segunda",
+   "kind": "reel",
+   "cat": "enganan",
+   "title": "Le envío el dinero, solo rellene este enlace. Y le roban la tarjeta.",
+   "caption": "Le envío el dinero, solo rellene este enlace. Y le roban la tarjeta.\n\nEl comprador le manda un enlace de un falso servicio de envíos. Para cobrar no hace falta dar el número completo de su tarjeta. Ni el código de detrás. Haga todo dentro de la aplicación de compraventa.\n\nCompártalo con quien pueda caer. Y síganos para no caer en la próxima.\n\nFuente: INCIBE, compraventa entre particulares.\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#estafas #ciberseguridad #phishing #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b24_segunda.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b24_segunda_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b25_hijo_apuros",
+   "kind": "reel",
+   "cat": "suyos",
+   "title": "Mamá, he cambiado de número. Necesito dinero.",
+   "caption": "Mamá, he cambiado de número. Necesito dinero.\n\nEs el timo del hijo en apuros. Escriben desde un número nuevo, con prisa. Una idea sencilla: acuerden una palabra clave en familia. Y ante la duda, llamen al número de siempre.\n\nCompártalo con su familia.\n\nFuente: Policía Nacional.\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#familia #ciberseguridad #estafas #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b25_hijo_apuros.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b25_hijo_apuros_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b26_frio",
+   "kind": "reel",
+   "cat": "empresa",
+   "title": "Su cámara frigorífica también está en internet.",
+   "caption": "Su cámara frigorífica también está en internet.\n\nValencia avisó a 21 empresas con la misma tecnología de frío que sistemas atacados en supermercados europeos. Cualquier aparato conectado y sin actualizar es una puerta. ¿Sabe todo lo que tiene conectado su empresa?\n\n¿Dudas sobre su empresa? Escríbanos por mensaje.\n\nFuente: Centre de Ciberseguretat de la Comunitat Valenciana (07/11/2026).\n\n#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b26_frio.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b26_frio_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b27_90dias",
+   "kind": "reel",
+   "cat": "empresa",
+   "title": "¿Obliga a cambiar la contraseña cada 90 días? Quizá esté empeorando su seguridad.",
+   "caption": "¿Obliga a cambiar la contraseña cada 90 días? Quizá esté empeorando su seguridad.\n\nLa guía de referencia ya no lo recomienda. La gente acaba poniendo Verano uno, Verano dos… Cámbiela solo si hay indicios de filtración. Lo que sí funciona: frases largas, comprobar contraseñas filtradas y verificación en dos pasos.\n\n¿Dudas sobre su empresa? Escríbanos por mensaje.\n\nFuente: NIST SP 800-63B, revisión 4.\n\n#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b27_90dias.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b27_90dias_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b28_primera_hora",
+   "kind": "reel",
+   "cat": "empresa",
+   "title": "Le han atacado. Esto es lo que hace la primera hora.",
+   "caption": "Le han atacado. Esto es lo que hace la primera hora.\n\nAísle el equipo de la red. No lo apague. No pague ni negocie. Pida ayuda al 017 y a su informático. Guarde pruebas. Y si hay datos personales, tiene 72 horas para avisar a la Agencia de Protección de Datos.\n\n¿Dudas sobre su empresa? Escríbanos por mensaje.\n\nFuente: INCIBE y RGPD (art. 33).\n\n#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b28_primera_hora.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b28_primera_hora_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b29_brecha",
+   "kind": "reel",
+   "cat": "empresa",
+   "title": "Un correo enviado a quien no debía también es una brecha de datos.",
+   "caption": "Un correo enviado a quien no debía también es una brecha de datos.\n\nNo hace falta un hackeo. Un portátil perdido sin cifrar también cuenta. Si afecta a datos personales, tiene 72 horas para avisar a la Agencia. ¿Tiene preparado su protocolo?\n\n¿Dudas sobre su empresa? Escríbanos por mensaje.\n\nFuente: RGPD, art. 33.\n\n#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b29_brecha.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b29_brecha_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b30_alta",
+   "kind": "reel",
+   "cat": "empresa",
+   "title": "Entra alguien nuevo en la empresa. Su primer día en ciberseguridad.",
+   "caption": "Entra alguien nuevo en la empresa. Su primer día en ciberseguridad.\n\nUsuario propio, y solo los permisos que necesita. Verificación en dos pasos y equipo actualizado y cifrado. Y 10 minutos de formación sobre estafas. Es lo más rentable del día.\n\n¿Dudas sobre su empresa? Escríbanos por mensaje.\n\n#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b30_alta.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b30_alta_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b31_dmarc",
+   "kind": "reel",
+   "cat": "empresa",
+   "title": "Cualquiera puede enviar correos con el nombre de su empresa.",
+   "caption": "Cualquiera puede enviar correos con el nombre de su empresa.\n\nSi su dominio no tiene SPF, DKIM y DMARC, es así de fácil. Y sus clientes reciben facturas falsas en su nombre. Se configuran una vez y se olvida. Lo revisamos sin compromiso.\n\n¿Dudas sobre su empresa? Escríbanos por mensaje.\n\nFuente: INCIBE, protección del correo electrónico.\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b31_dmarc.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b31_dmarc_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b32_restaurar",
+   "kind": "reel",
+   "cat": "empresa",
+   "title": "¿Cuándo fue la última vez que restauró una copia de seguridad?",
+   "caption": "¿Cuándo fue la última vez que restauró una copia de seguridad?\n\nHacer copias no basta. Hay que probar que se pueden recuperar. Una prueba al trimestre, con fecha y resultado. Una copia sin probar es solo una esperanza.\n\n¿Dudas sobre su empresa? Escríbanos por mensaje.\n\n#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b32_restaurar.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b32_restaurar_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b33_admin",
+   "kind": "reel",
+   "cat": "empresa",
+   "title": "¿Todos sus empleados son administradores de su ordenador?",
+   "caption": "¿Todos sus empleados son administradores de su ordenador?\n\nSi uno abre un archivo malicioso, el virus hereda esos permisos. Mínimo privilegio: cada persona, solo lo que necesita para trabajar.\n\n¿Dudas sobre su empresa? Escríbanos por mensaje.\n\n#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b33_admin.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b33_admin_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b34_mfa",
+   "kind": "reel",
+   "cat": "empresa",
+   "title": "Correo de empresa sin verificación en dos pasos: una contraseña robada y entran.",
+   "caption": "Correo de empresa sin verificación en dos pasos: una contraseña robada y entran.\n\nCon su correo pueden pedir pagos a sus clientes en su nombre. En Microsoft 365 o Google Workspace se activa en una mañana.\n\n¿Dudas sobre su empresa? Escríbanos por mensaje.\n\n#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b34_mfa.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b34_mfa_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b35_nis2",
+   "kind": "reel",
+   "cat": "empresa",
+   "title": "Su empresa es pequeña. Su cliente no. Y le va a pedir cuentas.",
+   "caption": "Su empresa es pequeña. Su cliente no. Y le va a pedir cuentas.\n\nLa directiva NIS2 obliga a los sectores clave a controlar la seguridad de sus proveedores. Si trabaja para ellos, prepárese para cuestionarios y auditorías. Mejor llegar con los deberes hechos.\n\n¿Dudas sobre su empresa? Escríbanos por mensaje.\n\nFuente: Directiva (UE) 2022/2555 (NIS2).\n\n#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b35_nis2.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b35_nis2_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b36_seguro",
+   "kind": "reel",
+   "cat": "empresa",
+   "title": "¿Ciberseguro? Puede que no le cubra si no hace esto antes.",
+   "caption": "¿Ciberseguro? Puede que no le cubra si no hace esto antes.\n\nLas aseguradoras piden cada vez más medidas mínimas. Si declara que las tiene y no es así, puede tener problemas al reclamar. Revise su punto de partida antes de contratar.\n\n¿Dudas sobre su empresa? Escríbanos por mensaje.\n\n#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b36_seguro.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b36_seguro_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b37_inventario",
+   "kind": "reel",
+   "cat": "empresa",
+   "title": "No se puede proteger lo que no sabe que tiene.",
+   "caption": "No se puede proteger lo que no sabe que tiene.\n\nEquipos, programas, cuentas en la nube y quién accede a qué. Una hoja de cálculo basta para empezar.\n\n¿Dudas sobre su empresa? Escríbanos por mensaje.\n\n#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b37_inventario.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b37_inventario_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b38_juegos",
+   "kind": "reel",
+   "cat": "suyos",
+   "title": "Su hijo juega online. ¿Sabe con quién habla?",
+   "caption": "Su hijo juega online. ¿Sabe con quién habla?\n\nChat solo con amigos que conozca, y compras con su aprobación. Y sobre todo, que le cuente si alguien le incomoda o le pide secretos.\n\nCompártalo con su familia.\n\nFuente: INCIBE, Internet Segura for Kids (IS4K).\n\n#familia #ciberseguridad #estafas #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b38_juegos.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b38_juegos_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b39_padres",
+   "kind": "reel",
+   "cat": "suyos",
+   "title": "Configure hoy el móvil de sus padres. Diez minutos.",
+   "caption": "Configure hoy el móvil de sus padres. Diez minutos.\n\nFiltro de llamadas spam, actualizaciones automáticas y PIN de bloqueo. Y usted como contacto de confianza. Regla de oro: si te piden dinero o claves, cuelga y llámame.\n\nCompártalo con su familia.\n\n#familia #ciberseguridad #estafas #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b39_padres.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b39_padres_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b40_primer_movil",
+   "kind": "reel",
+   "cat": "suyos",
+   "title": "El primer móvil de su hijo: 6 ajustes antes de dárselo.",
+   "caption": "El primer móvil de su hijo: 6 ajustes antes de dárselo.\n\nControl parental, compras con permiso y tiempo de uso. Cuentas privadas, ubicación solo con la familia, y nada de desconocidos. Y lo más importante: que sepa que puede contárselo.\n\nCompártalo con su familia.\n\nFuente: INCIBE, Internet Segura for Kids (IS4K).\n\n#familia #ciberseguridad #estafas #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b40_primer_movil.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b40_primer_movil_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b41_2fa",
+   "kind": "reel",
+   "cat": "empresa",
+   "title": "Le han robado la contraseña. Y aun así, no consiguen entrar.",
+   "caption": "Le han robado la contraseña. Y aun así, no consiguen entrar.\n\nLa verificación en dos pasos pide, además de la clave, un código de su móvil. Actívela hoy en el correo, el banco y las redes. Empiece por el correo: desde él se recupera todo lo demás.\n\n¿Dudas sobre su empresa? Escríbanos por mensaje.\n\n#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b41_2fa.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b41_2fa_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b42_qr_parking",
+   "kind": "reel",
+   "cat": "enganan",
+   "title": "Este QR del parquímetro es una pegatina.",
+   "caption": "Este QR del parquímetro es una pegatina.\n\nLa pegan encima del bueno. Lleva a una web de pago copiada. Usted paga el aparcamiento, y ellos se quedan con su tarjeta. Pague desde la app oficial o en la propia máquina.\n\nCompártalo con quien pueda caer. Y síganos para no caer en la próxima.\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#estafas #ciberseguridad #phishing #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b42_qr_parking.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b42_qr_parking_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b43_usb",
+   "kind": "reel",
+   "cat": "empresa",
+   "title": "Un USB en el aparcamiento que pone Nóminas. ¿Lo conectaría?",
+   "caption": "Un USB en el aparcamiento que pone Nóminas. ¿Lo conectaría?\n\nEs justo lo que espera quien lo dejó ahí. Basta con conectarlo o abrir un archivo para infectar el equipo. Y desde ahí, la red. Nunca conecte un USB que no sea suyo. Entréguelo a informática.\n\n¿Dudas sobre su empresa? Escríbanos por mensaje.\n\n#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b43_usb.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b43_usb_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b44_cartel",
+   "kind": "reel",
+   "cat": "empresa",
+   "title": "Tenía cartel de videovigilancia. Y le multaron igual.",
+   "caption": "Tenía cartel de videovigilancia. Y le multaron igual.\n\nEl cartel estaba detrás de la persiana. Con el local cerrado, no se veía. La Agencia de Protección de Datos fijó 1.000 € de multa. El cartel debe verse antes de entrar, y decir quién graba y cómo ejercer sus derechos.\n\n¿Dudas sobre su empresa? Escríbanos por mensaje.\n\nFuente: Xataka Home (julio de 2024), sobre una resolución de la AEPD.\n\n#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b44_cartel.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b44_cartel_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b45_017",
+   "kind": "reel",
+   "cat": "empresa",
+   "title": "Apunte este número. Algún día lo va a necesitar.",
+   "caption": "Apunte este número. Algún día lo va a necesitar.\n\nCero diecisiete: la línea gratuita y confidencial de ayuda en ciberseguridad. INCIBE gestionó más de 122.000 incidentes en 2025. Le orientan paso a paso. Y si hay delito, denúncielo.\n\n¿Dudas sobre su empresa? Escríbanos por mensaje.\n\nFuente: INCIBE, balance de ciberseguridad 2025.\n\n#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b45_017.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b45_017_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b46_postit",
+   "kind": "reel",
+   "cat": "empresa",
+   "title": "La contraseña de su ordenador, en un pósit en la pantalla.",
+   "caption": "La contraseña de su ordenador, en un pósit en la pantalla.\n\nCualquiera que pase por el mostrador puede leerla. Y si es la misma en todo, tiene la llave de todo. Use un gestor de contraseñas: guarda sus claves cifradas y crea una distinta para cada sitio. Usted solo recuerda una: larga y que no use en ningún otro sitio.\n\n¿Dudas sobre su empresa? Escríbanos por mensaje.\n\n#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b46_postit.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b46_postit_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b47_actualizar",
+   "kind": "reel",
+   "cat": "empresa",
+   "title": "Recordar más tarde. Lleva tres semanas pulsándolo.",
+   "caption": "Recordar más tarde. Lleva tres semanas pulsándolo.\n\nCada actualización tapa agujeros que los atacantes ya conocen. Y buscan justo los equipos que no se han actualizado. Active las actualizaciones automáticas en ordenadores, móviles y router.\n\n¿Dudas sobre su empresa? Escríbanos por mensaje.\n\n#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b47_actualizar.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b47_actualizar_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b48_baja",
+   "kind": "reel",
+   "cat": "empresa",
+   "title": "Se fue de la empresa hace 6 meses. Y todavía entra en su correo.",
+   "caption": "Se fue de la empresa hace 6 meses. Y todavía entra en su correo.\n\nCuando alguien se va, sus accesos tienen que irse con él. Haga una lista de lo que usa cada persona. Y el día de la baja, ciérrelo todo.\n\n¿Dudas sobre su empresa? Escríbanos por mensaje.\n\n#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b48_baja.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b48_baja_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "c01_dgt",
+   "kind": "reel",
+   "cat": "enganan",
+   "title": "Tiene una multa de tráfico sin pagar. Y usted ni ha cogido el coche.",
+   "caption": "Tiene una multa de tráfico sin pagar. Y usted ni ha cogido el coche.\n\nEl SMS dice que es de la DGT y le da un plazo muy corto. La DGT no envía multas por SMS con enlaces de pago. Las notificaciones de verdad llegan a la Dirección Electrónica Vial o por correo certificado.\n\nCompártalo con quien pueda caer. Y síganos para no caer en la próxima.\n\nFuente: DGT e INCIBE.\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#estafas #ciberseguridad #phishing #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/c01_dgt.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/c01_dgt_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "c02_hacienda",
+   "kind": "reel",
+   "cat": "enganan",
+   "title": "Hacienda le devuelve dinero. Solo tiene que poner su tarjeta.",
+   "caption": "Hacienda le devuelve dinero. Solo tiene que poner su tarjeta.\n\nLe llega un SMS o un correo con un reembolso pendiente y un enlace. Hacienda nunca pide los datos de su tarjeta por SMS ni por correo. Las devoluciones se cobran en la cuenta que usted indicó en su declaración.\n\nCompártalo con quien pueda caer. Y síganos para no caer en la próxima.\n\nFuente: Agencia Tributaria, avisos de suplantación.\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#estafas #ciberseguridad #phishing #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/c02_hacienda.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/c02_hacienda_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "c03_alquiler",
+   "kind": "reel",
+   "cat": "enganan",
+   "title": "El apartamento de la playa no existe. Y su señal, tampoco.",
+   "caption": "El apartamento de la playa no existe. Y su señal, tampoco.\n\nFotos preciosas, precio muy bueno y un propietario que está fuera de España. Le pide la señal por transferencia y que no use la plataforma. Pague siempre dentro de la plataforma y busque las fotos en internet antes de reservar.\n\nCompártalo con quien pueda caer. Y síganos para no caer en la próxima.\n\nFuente: Policía Nacional, consejos sobre alquiler vacacional.\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#estafas #ciberseguridad #phishing #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/c03_alquiler.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/c03_alquiler_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "c04_empleo",
+   "kind": "reel",
+   "cat": "enganan",
+   "title": "Gane 50 € al día dando me gusta. Desde casa.",
+   "caption": "Gane 50 € al día dando me gusta. Desde casa.\n\nLe escriben por WhatsApp con una oferta de trabajo muy fácil. Al principio le pagan unos euros. Luego le piden dinero para tareas mejor pagadas. Ningún trabajo le pide pagar para cobrar.\n\nCompártalo con quien pueda caer. Y síganos para no caer en la próxima.\n\nFuente: INCIBE, ofertas de empleo fraudulentas.\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#estafas #ciberseguridad #phishing #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/c04_empleo.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/c04_empleo_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "c05_sextorsion",
+   "kind": "reel",
+   "cat": "enganan",
+   "title": "Un correo dice que le ha grabado con su cámara. Y hasta sabe su contraseña.",
+   "caption": "Un correo dice que le ha grabado con su cámara. Y hasta sabe su contraseña.\n\nEs mentira. Esa contraseña sale de alguna filtración antigua. Le piden dinero en criptomonedas en pocas horas. Para meter miedo. No pague, no conteste y cambie esa contraseña donde la use.\n\nCompártalo con quien pueda caer. Y síganos para no caer en la próxima.\n\nFuente: INCIBE, correos de sextorsión.\n\n#estafas #ciberseguridad #phishing #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/c05_sextorsion.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/c05_sextorsion_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "c06_voz_ia",
+   "kind": "reel",
+   "cat": "enganan",
+   "title": "Es la voz de su hijo pidiendo ayuda. Y no es su hijo.",
+   "caption": "Es la voz de su hijo pidiendo ayuda. Y no es su hijo.\n\nCon unos segundos de audio de redes, la inteligencia artificial puede imitar una voz. Le llaman con prisa: un accidente, un problema, dinero ya. Cuelgue y llame usted a su número de siempre. Y pacten una palabra clave en familia.\n\nCompártalo con quien pueda caer. Y síganos para no caer en la próxima.\n\nFuente: INCIBE, suplantación con inteligencia artificial.\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#estafas #ciberseguridad #phishing #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/c06_voz_ia.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/c06_voz_ia_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "c07_luz",
+   "kind": "reel",
+   "cat": "enganan",
+   "title": "Si no paga ahora, le cortan la luz esta tarde.",
+   "caption": "Si no paga ahora, le cortan la luz esta tarde.\n\nLe llaman haciéndose pasar por su compañía eléctrica, con mucha prisa. Le piden pagar una supuesta deuda por Bizum o con tarjeta. Cuelgue y mire su factura o llame al número que aparece en ella.\n\nCompártalo con quien pueda caer. Y síganos para no caer en la próxima.\n\nFuente: OCU e INCIBE, fraudes telefónicos.\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#estafas #ciberseguridad #phishing #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/c07_luz.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/c07_luz_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "c08_amor",
+   "kind": "reel",
+   "cat": "enganan",
+   "title": "Lleva meses hablando con alguien maravilloso. Y ahora necesita dinero.",
+   "caption": "Lleva meses hablando con alguien maravilloso. Y ahora necesita dinero.\n\nPerfil atractivo, mucha atención y nunca puede hacer una videollamada. Un día surge un problema: un billete, una aduana, un hospital. Si alguien que no ha visto en persona le pide dinero, es una estafa.\n\nCompártalo con quien pueda caer. Y síganos para no caer en la próxima.\n\nFuente: Policía Nacional, estafas sentimentales.\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#estafas #ciberseguridad #phishing #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/c08_amor.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/c08_amor_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "c10_sorteo",
+   "kind": "reel",
+   "cat": "enganan",
+   "title": "¡Ha ganado nuestro sorteo! Lo dice una cuenta que copia a la de verdad.",
+   "caption": "¡Ha ganado nuestro sorteo! Lo dice una cuenta que copia a la de verdad.\n\nMisma foto, mismo nombre, una letra distinta. Para enviarle el premio, le piden pagar los gastos o sus datos. Mire el número de seguidores y la verificación, y nunca pague por un premio.\n\nCompártalo con quien pueda caer. Y síganos para no caer en la próxima.\n\nFuente: INCIBE, sorteos falsos en redes.\n\n#estafas #ciberseguridad #phishing #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/c10_sorteo.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/c10_sorteo_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "c12_wangiri",
+   "kind": "reel",
+   "cat": "enganan",
+   "title": "Una llamada perdida de un número raro. Si la devuelve, paga usted.",
+   "caption": "Una llamada perdida de un número raro. Si la devuelve, paga usted.\n\nSuenan un segundo y cuelgan. El prefijo es de otro país. Al devolverla, llama a una línea de tarificación especial. No devuelva llamadas de prefijos que no conoce. Si es importante, volverán a llamar.\n\nCompártalo con quien pueda caer. Y síganos para no caer en la próxima.\n\nFuente: INCIBE y OSI, llamadas perdidas internacionales.\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#estafas #ciberseguridad #phishing #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/c12_wangiri.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/c12_wangiri_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "c14_cupon",
+   "kind": "reel",
+   "cat": "enganan",
+   "title": "Un supermercado regala cupones de 100 €. Solo hay que contestar una encuesta.",
+   "caption": "Un supermercado regala cupones de 100 €. Solo hay que contestar una encuesta.\n\nLlega por WhatsApp, reenviado por alguien de confianza. Al final le piden sus datos, su tarjeta o reenviarlo a 20 contactos. Si fuera verdad, lo anunciaría la propia marca en su web.\n\nCompártalo con quien pueda caer. Y síganos para no caer en la próxima.\n\nFuente: Maldita.es, bulos de cupones de supermercado.\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#estafas #ciberseguridad #phishing #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/c14_cupon.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/c14_cupon_portada.jpg"
   }
  ]
 }

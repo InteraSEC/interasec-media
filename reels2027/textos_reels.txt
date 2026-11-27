@@ -198,7 +198,7 @@ Fuente: Vodafone (primer SMS, 3 de diciembre de 1992).
 == a18_tienda_falsa ==
 Esa oferta del 70 % es de una tienda que no existe.
 
-En Navidad aparecen webs copiadas de marcas famosas, con precios imposibles. Solo aceptan transferencia o Bizum. Y el pedido nunca llega. Antes de pagar, compruebe tres cosas. Si el precio es demasiado bueno, desconfíe.
+En Navidad aparecen webs copiadas de marcas famosas, con precios imposibles. Solo aceptan transferencia o Bizum. Y el pedido nunca llega. Antes de pagar, compruebe tres cosas: dirección exacta de la web, opiniones fuera de la tienda y pago con tarjeta, nunca transferencia. Si el precio es demasiado bueno, desconfíe.
 
 Compártalo con quien pueda caer. Y síganos para no caer en la próxima.
 
@@ -230,6 +230,17 @@ Fuente: INCIBE y Loterías y Apuestas del Estado.
 
 #estafas #ciberseguridad #phishing #Asturias #InteraSec
 
+== b01_impresora ==
+Su impresora firma cada hoja que imprime.
+
+Muchas láser a color añaden unos puntitos amarillos casi invisibles. Esos puntos codifican datos como el número de serie de la impresora. Así se puede saber qué máquina imprimió un documento. ¿Lo sabía? Cuéntenoslo en comentarios.
+
+¿Lo sabía? Cuéntenoslo en comentarios.
+
+Fuente: Electronic Frontier Foundation (EFF).
+
+#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec
+
 == b02_fotos ==
 Esta foto dice dónde vive. Y usted no lo sabe.
 
@@ -240,4 +251,622 @@ Cada foto puede llevar una ficha escondida con la ubicación exacta y la hora. M
 Fuente: INCIBE (OSI), metadatos de las fotos.
 
 #ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec
+
+== b03_qr_esquinas ==
+¿Por qué los QR tienen tres cuadrados en las esquinas?
+
+Le dicen a la cámara dónde está el código, su tamaño y cómo está girado. El QR lo inventó Denso Wave en 1994 para piezas de coche. Lo que el QR no le dice es quién lo ha puesto. Mire siempre la dirección antes de abrirla.
+
+¿Lo sabía? Cuéntenoslo en comentarios.
+
+Fuente: Denso Wave, creador del código QR (1994).
+
+#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec
+
+== b04_borrar ==
+Borrar un archivo no lo borra. Ni vaciando la papelera.
+
+El espacio solo se marca como libre. Y los datos se pueden recuperar. Antes de vender o tirar un ordenador o un móvil, haga un borrado seguro. Si es un disco de empresa, mejor destrucción certificada.
+
+¿Lo sabía? Cuéntenoslo en comentarios.
+
+Fuente: INCIBE, borrado seguro de la información.
+
+#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec
+
+== b05_simbolos ==
+Los símbolos raros en la contraseña ya no son la clave.
+
+La guía de referencia del NIST pide longitud, no símbolos obligatorios. Al menos 15 caracteres cuando la contraseña es la única protección. Por ejemplo, una frase: mi perro come pan los martes.
+
+¿Lo sabía? Cuéntenoslo en comentarios.
+
+Fuente: NIST SP 800-63B, revisión 4 (2025).
+
+#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec
+
+== b06_top ==
+Las contraseñas más usadas en España se descifran en menos de un segundo.
+
+admin, 123456 y 12345678. Si la suya está en la lista, cámbiela hoy. Empiece por la del correo. Del correo se recuperan las contraseñas de todo lo demás.
+
+¿Lo sabía? Cuéntenoslo en comentarios.
+
+Fuente: NordPass, contraseñas más comunes (2025).
+
+#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec
+
+== b07_nube ==
+La nube es en realidad un edificio.
+
+Naves llenas de servidores, con su luz, su refrigeración y su vigilancia. Amazon, Google y Microsoft tienen centros de datos en España. Cuando guarda algo en la nube, está en el ordenador de otra empresa. Proteja su cuenta.
+
+¿Lo sabía? Cuéntenoslo en comentarios.
+
+Fuente: anuncios de Amazon, Google y Microsoft.
+
+#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec
+
+== b08_cajero ==
+¿Por qué el cajero le devuelve la tarjeta antes que el dinero?
+
+Porque usted viene a por el dinero. En cuanto lo tiene, se va. Si la tarjeta saliera después, muchos se la dejarían olvidada. Mucha seguridad se diseña así: contra los errores humanos de siempre.
+
+¿Lo sabía? Cuéntenoslo en comentarios.
+
+#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec
+
+== b09_pin ==
+¿Por qué el móvil le pide el PIN aunque use la cara?
+
+Al reiniciar, el PIN es lo que desbloquea el cifrado de sus datos. La cara o la huella solo valen cuando el móvil ya está desbloqueado una vez. Por eso un 1234 o su fecha de nacimiento son tan mala idea.
+
+¿Lo sabía? Cuéntenoslo en comentarios.
+
+Fuente: documentación de seguridad de Apple y Android.
+
+#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec
+
+== b10_incognito ==
+El modo incógnito no le hace invisible.
+
+Solo evita que su navegador guarde el historial en ese equipo. Su operador, la red de su empresa y las webs donde entra siguen sabiendo qué hace. Úselo para un ordenador compartido. No para esconderse.
+
+¿Lo sabía? Cuéntenoslo en comentarios.
+
+Fuente: ayuda oficial de Chrome.
+
+#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec
+
+== b11_cookies ==
+¿Por qué todas las webs le preguntan por las cookies?
+
+Porque la ley exige su permiso para las que no son necesarias, como las de publicidad. Y rechazar debe ser tan fácil como aceptar. Lo dice la Agencia de Protección de Datos. Si una web lo esconde, ya sabe que no lo está haciendo bien.
+
+¿Lo sabía? Cuéntenoslo en comentarios.
+
+Fuente: AEPD, guía sobre el uso de cookies.
+
+#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec
+
+== b12_codigo ==
+¿Por qué el código de verificación caduca tan rápido?
+
+Se calcula con una clave secreta y la hora. Cada 30 segundos, uno nuevo. Si alguien lo ve en su pantalla, ya no le sirve. Y si alguien se lo pide por teléfono, es una estafa. Siempre.
+
+¿Lo sabía? Cuéntenoslo en comentarios.
+
+Fuente: estándar TOTP (RFC 6238).
+(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)
+
+#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec
+
+== b13_arroba ==
+Esta dirección no lleva a su banco. Aunque empiece por su banco.
+
+En una dirección web, todo lo que va antes de la arroba se ignora. El navegador va a lo que hay después. Y ahí está el estafador. Fíjese siempre en lo que hay justo antes de la primera barra.
+
+¿Lo sabía? Cuéntenoslo en comentarios.
+(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)
+
+#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec
+
+== b14_numero ==
+Su número de teléfono es la llave de casi todo.
+
+Banco, correo, WhatsApp y redes lo usan para enviarle códigos y recuperar la cuenta. Póngale PIN a la tarjeta SIM y, cuando pueda, use una app de autenticación en vez de SMS.
+
+¿Lo sabía? Cuéntenoslo en comentarios.
+
+Fuente: INCIBE, protección de la línea móvil.
+
+#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec
+
+== b15_recoger_tarjeta ==
+Somos del banco. Vamos a recoger su tarjeta.
+
+Le llaman por un cargo sospechoso y le ofrecen mandar a alguien a su casa. Ese mensajero se lleva su tarjeta. Y antes le han sacado el PIN. Ningún banco hace eso. Cuelgue y llame usted al número de su tarjeta.
+
+Compártalo con quien pueda caer. Y síganos para no caer en la próxima.
+
+Fuente: Policía Nacional (octubre de 2026).
+(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)
+
+#estafas #ciberseguridad #phishing #Asturias #InteraSec
+
+== b16_whatsapp_dinero ==
+Su WhatsApp está pidiendo dinero a sus amigos. Y usted no lo sabe.
+
+Usan su cuenta, desde otro dispositivo, para pedir dinero a familiares y contactos. Revise los dispositivos vinculados en los ajustes de WhatsApp. Y actualice la app. Y si un conocido le pide dinero, llámele antes de pagar.
+
+Compártalo con quien pueda caer. Y síganos para no caer en la próxima.
+
+Fuente: Policía Nacional (30/10/2026).
+(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)
+
+#estafas #ciberseguridad #phishing #Asturias #InteraSec
+
+== b17_citacion ==
+Un correo de la Policía le acusa de un delito. Y le da 48 horas.
+
+Suplantan a la Policía, la Guardia Civil o INCIBE con citaciones falsas. El objetivo es asustarle y pedirle dinero para cerrar el caso. No responda. Si ya lo hizo, llame al 017.
+
+Compártalo con quien pueda caer. Y síganos para no caer en la próxima.
+
+Fuente: INCIBE.
+(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)
+
+#estafas #ciberseguridad #phishing #Asturias #InteraSec
+
+== b18_carpeta ==
+Tiene 552 € pendientes de cobro. No los tiene.
+
+Son mensajes que suplantan a Mi Carpeta Ciudadana y prometen un ingreso. Mi Carpeta Ciudadana no envía esas notificaciones. No pulse el enlace. Entre siempre usted en la web oficial.
+
+Compártalo con quien pueda caer. Y síganos para no caer en la próxima.
+
+Fuente: INCIBE.
+(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)
+
+#estafas #ciberseguridad #phishing #Asturias #InteraSec
+
+== b19_senales ==
+5 señales de que le están estafando. Sirve para todo.
+
+Prisa. Miedo o premio. Un enlace o una cuenta nueva. Que le pidan claves o códigos. Y que le pidan secreto. Sirve para SMS, correo, llamadas y WhatsApp. Ante la duda, 017.
+
+Compártalo con quien pueda caer. Y síganos para no caer en la próxima.
+
+Fuente: INCIBE, línea de ayuda 017.
+
+#estafas #ciberseguridad #phishing #Asturias #InteraSec
+
+== b20_sim ==
+Se queda sin cobertura. Y le vacían la cuenta.
+
+Es el duplicado de SIM: consiguen una tarjeta con su número. Y reciben ellos los SMS de su banco. Si se queda sin servicio sin motivo, llame enseguida a su operador y a su banco.
+
+Compártalo con quien pueda caer. Y síganos para no caer en la próxima.
+
+Fuente: INCIBE y Policía Nacional.
+
+#estafas #ciberseguridad #phishing #Asturias #InteraSec
+
+== b21_bizum ==
+Ya le he enviado el Bizum, acéptelo. Y el que paga es usted.
+
+Vende algo de segunda mano y el comprador le manda una solicitud. Pero una solicitud es para pedir dinero. Si la acepta, paga usted. Para recibir un Bizum no hay que aceptar nada.
+
+Compártalo con quien pueda caer. Y síganos para no caer en la próxima.
+
+Fuente: Bizum, consejos de seguridad.
+(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)
+
+#estafas #ciberseguridad #phishing #Asturias #InteraSec
+
+== b22_soporte ==
+Le llaman de soporte técnico: su ordenador tiene un virus.
+
+Le piden instalar un programa para arreglarlo a distancia. Con ese programa controlan su ordenador. Y su banca online. Las grandes empresas no llaman para eso. Si ya lo instaló, desconecte internet y llame al 017.
+
+Compártalo con quien pueda caer. Y síganos para no caer en la próxima.
+
+Fuente: INCIBE.
+(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)
+
+#estafas #ciberseguridad #phishing #Asturias #InteraSec
+
+== b23_famoso ==
+Un famoso le recomienda invertir. No es él.
+
+Usan su imagen, noticias falsas y hasta vídeos creados con inteligencia artificial. Le prometen rentabilidades altas y seguras. Eso no existe. Antes de invertir, compruebe si la entidad está registrada en la CNMV.
+
+Compártalo con quien pueda caer. Y síganos para no caer en la próxima.
+
+Fuente: CNMV, advertencias sobre chiringuitos.
+
+#estafas #ciberseguridad #phishing #Asturias #InteraSec
+
+== b24_segunda ==
+Le envío el dinero, solo rellene este enlace. Y le roban la tarjeta.
+
+El comprador le manda un enlace de un falso servicio de envíos. Para cobrar no hace falta dar el número completo de su tarjeta. Ni el código de detrás. Haga todo dentro de la aplicación de compraventa.
+
+Compártalo con quien pueda caer. Y síganos para no caer en la próxima.
+
+Fuente: INCIBE, compraventa entre particulares.
+(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)
+
+#estafas #ciberseguridad #phishing #Asturias #InteraSec
+
+== b25_hijo_apuros ==
+Mamá, he cambiado de número. Necesito dinero.
+
+Es el timo del hijo en apuros. Escriben desde un número nuevo, con prisa. Una idea sencilla: acuerden una palabra clave en familia. Y ante la duda, llamen al número de siempre.
+
+Compártalo con su familia.
+
+Fuente: Policía Nacional.
+(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)
+
+#familia #ciberseguridad #estafas #Asturias #InteraSec
+
+== b26_frio ==
+Su cámara frigorífica también está en internet.
+
+Valencia avisó a 21 empresas con la misma tecnología de frío que sistemas atacados en supermercados europeos. Cualquier aparato conectado y sin actualizar es una puerta. ¿Sabe todo lo que tiene conectado su empresa?
+
+¿Dudas sobre su empresa? Escríbanos por mensaje.
+
+Fuente: Centre de Ciberseguretat de la Comunitat Valenciana (07/11/2026).
+
+#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec
+
+== b27_90dias ==
+¿Obliga a cambiar la contraseña cada 90 días? Quizá esté empeorando su seguridad.
+
+La guía de referencia ya no lo recomienda. La gente acaba poniendo Verano uno, Verano dos… Cámbiela solo si hay indicios de filtración. Lo que sí funciona: frases largas, comprobar contraseñas filtradas y verificación en dos pasos.
+
+¿Dudas sobre su empresa? Escríbanos por mensaje.
+
+Fuente: NIST SP 800-63B, revisión 4.
+
+#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec
+
+== b28_primera_hora ==
+Le han atacado. Esto es lo que hace la primera hora.
+
+Aísle el equipo de la red. No lo apague. No pague ni negocie. Pida ayuda al 017 y a su informático. Guarde pruebas. Y si hay datos personales, tiene 72 horas para avisar a la Agencia de Protección de Datos.
+
+¿Dudas sobre su empresa? Escríbanos por mensaje.
+
+Fuente: INCIBE y RGPD (art. 33).
+
+#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec
+
+== b29_brecha ==
+Un correo enviado a quien no debía también es una brecha de datos.
+
+No hace falta un hackeo. Un portátil perdido sin cifrar también cuenta. Si afecta a datos personales, tiene 72 horas para avisar a la Agencia. ¿Tiene preparado su protocolo?
+
+¿Dudas sobre su empresa? Escríbanos por mensaje.
+
+Fuente: RGPD, art. 33.
+
+#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec
+
+== b30_alta ==
+Entra alguien nuevo en la empresa. Su primer día en ciberseguridad.
+
+Usuario propio, y solo los permisos que necesita. Verificación en dos pasos y equipo actualizado y cifrado. Y 10 minutos de formación sobre estafas. Es lo más rentable del día.
+
+¿Dudas sobre su empresa? Escríbanos por mensaje.
+
+#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec
+
+== b31_dmarc ==
+Cualquiera puede enviar correos con el nombre de su empresa.
+
+Si su dominio no tiene SPF, DKIM y DMARC, es así de fácil. Y sus clientes reciben facturas falsas en su nombre. Se configuran una vez y se olvida. Lo revisamos sin compromiso.
+
+¿Dudas sobre su empresa? Escríbanos por mensaje.
+
+Fuente: INCIBE, protección del correo electrónico.
+(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)
+
+#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec
+
+== b32_restaurar ==
+¿Cuándo fue la última vez que restauró una copia de seguridad?
+
+Hacer copias no basta. Hay que probar que se pueden recuperar. Una prueba al trimestre, con fecha y resultado. Una copia sin probar es solo una esperanza.
+
+¿Dudas sobre su empresa? Escríbanos por mensaje.
+
+#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec
+
+== b33_admin ==
+¿Todos sus empleados son administradores de su ordenador?
+
+Si uno abre un archivo malicioso, el virus hereda esos permisos. Mínimo privilegio: cada persona, solo lo que necesita para trabajar.
+
+¿Dudas sobre su empresa? Escríbanos por mensaje.
+
+#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec
+
+== b34_mfa ==
+Correo de empresa sin verificación en dos pasos: una contraseña robada y entran.
+
+Con su correo pueden pedir pagos a sus clientes en su nombre. En Microsoft 365 o Google Workspace se activa en una mañana.
+
+¿Dudas sobre su empresa? Escríbanos por mensaje.
+
+#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec
+
+== b35_nis2 ==
+Su empresa es pequeña. Su cliente no. Y le va a pedir cuentas.
+
+La directiva NIS2 obliga a los sectores clave a controlar la seguridad de sus proveedores. Si trabaja para ellos, prepárese para cuestionarios y auditorías. Mejor llegar con los deberes hechos.
+
+¿Dudas sobre su empresa? Escríbanos por mensaje.
+
+Fuente: Directiva (UE) 2022/2555 (NIS2).
+
+#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec
+
+== b36_seguro ==
+¿Ciberseguro? Puede que no le cubra si no hace esto antes.
+
+Las aseguradoras piden cada vez más medidas mínimas. Si declara que las tiene y no es así, puede tener problemas al reclamar. Revise su punto de partida antes de contratar.
+
+¿Dudas sobre su empresa? Escríbanos por mensaje.
+
+#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec
+
+== b37_inventario ==
+No se puede proteger lo que no sabe que tiene.
+
+Equipos, programas, cuentas en la nube y quién accede a qué. Una hoja de cálculo basta para empezar.
+
+¿Dudas sobre su empresa? Escríbanos por mensaje.
+
+#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec
+
+== b38_juegos ==
+Su hijo juega online. ¿Sabe con quién habla?
+
+Chat solo con amigos que conozca, y compras con su aprobación. Y sobre todo, que le cuente si alguien le incomoda o le pide secretos.
+
+Compártalo con su familia.
+
+Fuente: INCIBE, Internet Segura for Kids (IS4K).
+
+#familia #ciberseguridad #estafas #Asturias #InteraSec
+
+== b39_padres ==
+Configure hoy el móvil de sus padres. Diez minutos.
+
+Filtro de llamadas spam, actualizaciones automáticas y PIN de bloqueo. Y usted como contacto de confianza. Regla de oro: si te piden dinero o claves, cuelga y llámame.
+
+Compártalo con su familia.
+
+#familia #ciberseguridad #estafas #Asturias #InteraSec
+
+== b40_primer_movil ==
+El primer móvil de su hijo: 6 ajustes antes de dárselo.
+
+Control parental, compras con permiso y tiempo de uso. Cuentas privadas, ubicación solo con la familia, y nada de desconocidos. Y lo más importante: que sepa que puede contárselo.
+
+Compártalo con su familia.
+
+Fuente: INCIBE, Internet Segura for Kids (IS4K).
+
+#familia #ciberseguridad #estafas #Asturias #InteraSec
+
+== b41_2fa ==
+Le han robado la contraseña. Y aun así, no consiguen entrar.
+
+La verificación en dos pasos pide, además de la clave, un código de su móvil. Actívela hoy en el correo, el banco y las redes. Empiece por el correo: desde él se recupera todo lo demás.
+
+¿Dudas sobre su empresa? Escríbanos por mensaje.
+
+#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec
+
+== b42_qr_parking ==
+Este QR del parquímetro es una pegatina.
+
+La pegan encima del bueno. Lleva a una web de pago copiada. Usted paga el aparcamiento, y ellos se quedan con su tarjeta. Pague desde la app oficial o en la propia máquina.
+
+Compártalo con quien pueda caer. Y síganos para no caer en la próxima.
+(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)
+
+#estafas #ciberseguridad #phishing #Asturias #InteraSec
+
+== b43_usb ==
+Un USB en el aparcamiento que pone Nóminas. ¿Lo conectaría?
+
+Es justo lo que espera quien lo dejó ahí. Basta con conectarlo o abrir un archivo para infectar el equipo. Y desde ahí, la red. Nunca conecte un USB que no sea suyo. Entréguelo a informática.
+
+¿Dudas sobre su empresa? Escríbanos por mensaje.
+
+#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec
+
+== b44_cartel ==
+Tenía cartel de videovigilancia. Y le multaron igual.
+
+El cartel estaba detrás de la persiana. Con el local cerrado, no se veía. La Agencia de Protección de Datos fijó 1.000 € de multa. El cartel debe verse antes de entrar, y decir quién graba y cómo ejercer sus derechos.
+
+¿Dudas sobre su empresa? Escríbanos por mensaje.
+
+Fuente: Xataka Home (julio de 2024), sobre una resolución de la AEPD.
+
+#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec
+
+== b45_017 ==
+Apunte este número. Algún día lo va a necesitar.
+
+Cero diecisiete: la línea gratuita y confidencial de ayuda en ciberseguridad. INCIBE gestionó más de 122.000 incidentes en 2025. Le orientan paso a paso. Y si hay delito, denúncielo.
+
+¿Dudas sobre su empresa? Escríbanos por mensaje.
+
+Fuente: INCIBE, balance de ciberseguridad 2025.
+
+#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec
+
+== b46_postit ==
+La contraseña de su ordenador, en un pósit en la pantalla.
+
+Cualquiera que pase por el mostrador puede leerla. Y si es la misma en todo, tiene la llave de todo. Use un gestor de contraseñas: guarda sus claves cifradas y crea una distinta para cada sitio. Usted solo recuerda una: larga y que no use en ningún otro sitio.
+
+¿Dudas sobre su empresa? Escríbanos por mensaje.
+
+#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec
+
+== b47_actualizar ==
+Recordar más tarde. Lleva tres semanas pulsándolo.
+
+Cada actualización tapa agujeros que los atacantes ya conocen. Y buscan justo los equipos que no se han actualizado. Active las actualizaciones automáticas en ordenadores, móviles y router.
+
+¿Dudas sobre su empresa? Escríbanos por mensaje.
+
+#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec
+
+== b48_baja ==
+Se fue de la empresa hace 6 meses. Y todavía entra en su correo.
+
+Cuando alguien se va, sus accesos tienen que irse con él. Haga una lista de lo que usa cada persona. Y el día de la baja, ciérrelo todo.
+
+¿Dudas sobre su empresa? Escríbanos por mensaje.
+
+#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec
+
+== c01_dgt ==
+Tiene una multa de tráfico sin pagar. Y usted ni ha cogido el coche.
+
+El SMS dice que es de la DGT y le da un plazo muy corto. La DGT no envía multas por SMS con enlaces de pago. Las notificaciones de verdad llegan a la Dirección Electrónica Vial o por correo certificado.
+
+Compártalo con quien pueda caer. Y síganos para no caer en la próxima.
+
+Fuente: DGT e INCIBE.
+(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)
+
+#estafas #ciberseguridad #phishing #Asturias #InteraSec
+
+== c02_hacienda ==
+Hacienda le devuelve dinero. Solo tiene que poner su tarjeta.
+
+Le llega un SMS o un correo con un reembolso pendiente y un enlace. Hacienda nunca pide los datos de su tarjeta por SMS ni por correo. Las devoluciones se cobran en la cuenta que usted indicó en su declaración.
+
+Compártalo con quien pueda caer. Y síganos para no caer en la próxima.
+
+Fuente: Agencia Tributaria, avisos de suplantación.
+(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)
+
+#estafas #ciberseguridad #phishing #Asturias #InteraSec
+
+== c03_alquiler ==
+El apartamento de la playa no existe. Y su señal, tampoco.
+
+Fotos preciosas, precio muy bueno y un propietario que está fuera de España. Le pide la señal por transferencia y que no use la plataforma. Pague siempre dentro de la plataforma y busque las fotos en internet antes de reservar.
+
+Compártalo con quien pueda caer. Y síganos para no caer en la próxima.
+
+Fuente: Policía Nacional, consejos sobre alquiler vacacional.
+(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)
+
+#estafas #ciberseguridad #phishing #Asturias #InteraSec
+
+== c04_empleo ==
+Gane 50 € al día dando me gusta. Desde casa.
+
+Le escriben por WhatsApp con una oferta de trabajo muy fácil. Al principio le pagan unos euros. Luego le piden dinero para tareas mejor pagadas. Ningún trabajo le pide pagar para cobrar.
+
+Compártalo con quien pueda caer. Y síganos para no caer en la próxima.
+
+Fuente: INCIBE, ofertas de empleo fraudulentas.
+(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)
+
+#estafas #ciberseguridad #phishing #Asturias #InteraSec
+
+== c05_sextorsion ==
+Un correo dice que le ha grabado con su cámara. Y hasta sabe su contraseña.
+
+Es mentira. Esa contraseña sale de alguna filtración antigua. Le piden dinero en criptomonedas en pocas horas. Para meter miedo. No pague, no conteste y cambie esa contraseña donde la use.
+
+Compártalo con quien pueda caer. Y síganos para no caer en la próxima.
+
+Fuente: INCIBE, correos de sextorsión.
+
+#estafas #ciberseguridad #phishing #Asturias #InteraSec
+
+== c06_voz_ia ==
+Es la voz de su hijo pidiendo ayuda. Y no es su hijo.
+
+Con unos segundos de audio de redes, la inteligencia artificial puede imitar una voz. Le llaman con prisa: un accidente, un problema, dinero ya. Cuelgue y llame usted a su número de siempre. Y pacten una palabra clave en familia.
+
+Compártalo con quien pueda caer. Y síganos para no caer en la próxima.
+
+Fuente: INCIBE, suplantación con inteligencia artificial.
+(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)
+
+#estafas #ciberseguridad #phishing #Asturias #InteraSec
+
+== c07_luz ==
+Si no paga ahora, le cortan la luz esta tarde.
+
+Le llaman haciéndose pasar por su compañía eléctrica, con mucha prisa. Le piden pagar una supuesta deuda por Bizum o con tarjeta. Cuelgue y mire su factura o llame al número que aparece en ella.
+
+Compártalo con quien pueda caer. Y síganos para no caer en la próxima.
+
+Fuente: OCU e INCIBE, fraudes telefónicos.
+(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)
+
+#estafas #ciberseguridad #phishing #Asturias #InteraSec
+
+== c08_amor ==
+Lleva meses hablando con alguien maravilloso. Y ahora necesita dinero.
+
+Perfil atractivo, mucha atención y nunca puede hacer una videollamada. Un día surge un problema: un billete, una aduana, un hospital. Si alguien que no ha visto en persona le pide dinero, es una estafa.
+
+Compártalo con quien pueda caer. Y síganos para no caer en la próxima.
+
+Fuente: Policía Nacional, estafas sentimentales.
+(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)
+
+#estafas #ciberseguridad #phishing #Asturias #InteraSec
+
+== c10_sorteo ==
+¡Ha ganado nuestro sorteo! Lo dice una cuenta que copia a la de verdad.
+
+Misma foto, mismo nombre, una letra distinta. Para enviarle el premio, le piden pagar los gastos o sus datos. Mire el número de seguidores y la verificación, y nunca pague por un premio.
+
+Compártalo con quien pueda caer. Y síganos para no caer en la próxima.
+
+Fuente: INCIBE, sorteos falsos en redes.
+
+#estafas #ciberseguridad #phishing #Asturias #InteraSec
+
+== c12_wangiri ==
+Una llamada perdida de un número raro. Si la devuelve, paga usted.
+
+Suenan un segundo y cuelgan. El prefijo es de otro país. Al devolverla, llama a una línea de tarificación especial. No devuelva llamadas de prefijos que no conoce. Si es importante, volverán a llamar.
+
+Compártalo con quien pueda caer. Y síganos para no caer en la próxima.
+
+Fuente: INCIBE y OSI, llamadas perdidas internacionales.
+(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)
+
+#estafas #ciberseguridad #phishing #Asturias #InteraSec
+
+== c14_cupon ==
+Un supermercado regala cupones de 100 €. Solo hay que contestar una encuesta.
+
+Llega por WhatsApp, reenviado por alguien de confianza. Al final le piden sus datos, su tarjeta o reenviarlo a 20 contactos. Si fuera verdad, lo anunciaría la propia marca en su web.
+
+Compártalo con quien pueda caer. Y síganos para no caer en la próxima.
+
+Fuente: Maldita.es, bulos de cupones de supermercado.
+(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)
+
+#estafas #ciberseguridad #phishing #Asturias #InteraSec
 
