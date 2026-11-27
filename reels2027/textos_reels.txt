@@ -1,0 +1,243 @@
+INTERASEC · REELS (formato nuevo, gancho en el primer segundo)
+
+== a01_fondos ==
+Este anuncio le regala fondos de pantalla. Y se lleva su cuenta.
+
+Sale en Facebook e Instagram: fondos animados gratis para su ordenador. Lo instala y el fondo funciona. Por eso nadie sospecha. Pero mete una extensión en su navegador que copia sus sesiones abiertas. Entran en sus cuentas sin contraseña, y hasta borran los avisos de seguridad de su correo. Un solo anuncio llegó a más de 6.000 personas. Descargue programas solo de la web oficial. Nunca desde un anuncio.
+
+Compártalo con quien pueda caer. Y síganos para no caer en la próxima.
+
+Fuente: Bitdefender Labs (26/11/2026).
+(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)
+
+#estafas #ciberseguridad #phishing #Asturias #InteraSec
+
+== a02_drupal ==
+Su web puede tener un botón de reinstalar. Y cualquiera puede pulsarlo.
+
+Drupal ha avisado de un fallo altamente crítico en su instalador. Permite tomar el control de la web, y ya se está usando en ataques reales. Si su web es Drupal, actualice a las versiones corregidas o bloquee el instalador mientras tanto. Una web también necesita mantenimiento, como la caldera o el coche.
+
+¿Dudas sobre su empresa? Escríbanos por mensaje.
+
+Fuente: Drupal SA-CORE-2026-017 (18/11/2026).
+
+#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec
+
+== a03_devolucion ==
+Le cobran algo que usted no compró. Su banco tiene hasta mañana para devolvérselo.
+
+Lo dice la ley de servicios de pago, en su artículo 45. Si usted no autorizó el pago, el banco debe devolverlo como tarde al final del día hábil siguiente. Solo puede retrasarlo si sospecha fraude y se lo comunica al Banco de España. Avise a su banco en cuanto lo vea. Y guarde por escrito la reclamación. Ojo: si fue usted quien hizo la transferencia engañado, el caso es distinto.
+
+¿Lo sabía? Cuéntenoslo en comentarios.
+
+Fuente: Real Decreto-ley 19/2018, art. 45 (BOE).
+
+#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec
+
+== a04_asistente ==
+Su asistente de voz puede leer sus chats. Aunque la app esté cifrada.
+
+Los nuevos asistentes con inteligencia artificial pueden ver lo que hay en la pantalla. Y en la pantalla están sus conversaciones, ya descifradas. Signal ha anunciado que bloqueará esa lectura en sus chats. En iPhone puede excluir apps de Siri en los ajustes. En Android, limite el contexto de pantalla de Gemini.
+
+¿Lo sabía? Cuéntenoslo en comentarios.
+
+Fuente: BleepingComputer (22/11/2026) y EFF (28/10/2026).
+(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)
+
+#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec
+
+== a05_sonicwall ==
+Su firewall sigue encendido. Pero nadie lo arregla ya.
+
+SonicWall ha avisado: sus firewalls de Gen 6 ya no reciben parches. Ni uno. Ni siquiera si aparece un fallo crítico. Son muy comunes en oficinas: modelos TZ y SOHO con SonicOS 6. Mientras lo cambia, cierre la administración desde internet y active la verificación en dos pasos.
+
+¿Dudas sobre su empresa? Escríbanos por mensaje.
+
+Fuente: SonicWall, aviso del 18/11/2026.
+
+#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec
+
+== a06_renfe ==
+Le escriben de Renfe con su nombre, su DNI y su último viaje. Puede que no sea Renfe.
+
+Renfe ha confirmado un acceso no autorizado a sus sistemas de venta de billetes. Quedaron expuestos nombres, contactos, documentos, viajes y contraseñas cifradas. Con esos datos, un estafador le escribe un mensaje casi perfecto sobre una compensación. Si tiene cuenta, cambie la contraseña. Y nunca dé claves ni datos del banco por mensaje.
+
+Compártalo con quien pueda caer. Y síganos para no caer en la próxima.
+
+Fuente: aviso oficial de Renfe (noviembre de 2026).
+(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)
+
+#estafas #ciberseguridad #phishing #Asturias #InteraSec
+
+== a07_synology ==
+Su NAS guarda todos los archivos de la empresa. Y tiene una puerta abierta.
+
+Synology ha avisado de un fallo crítico: 9,8 sobre 10. Desde internet, sin usuario ni clave, se pueden leer o cambiar archivos. Primero, desactive OAuth Service si no lo usa. Segundo, actualice DSM. Tercero, entre solo por VPN.
+
+¿Dudas sobre su empresa? Escríbanos por mensaje.
+
+Fuente: Synology-SA-26:21 (19/11/2026).
+
+#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec
+
+== a08_beneficiario ==
+Su banco ya le avisa si el IBAN no es de quien usted cree. Casi nadie lo lee.
+
+Desde octubre de 2025, todos los bancos comprueban el nombre del titular antes de una transferencia. Si el nombre no coincide, le aparece un aviso. Si sigue adelante, el dinero se envía igual. Y el banco ya no responde. Ese aviso le salva del cambio de cuenta y del falso departamento antifraude.
+
+¿Lo sabía? Cuéntenoslo en comentarios.
+
+Fuente: Banco de España, verificación del beneficiario.
+(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)
+
+#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec
+
+== a09_antifraude ==
+Le escribe el departamento antifraude de su banco. Y el fraude son ellos.
+
+Primero, un SMS: hemos detectado un movimiento sospechoso. Después, la llamada de un agente muy amable y con mucha prisa. Le pide claves, compartir pantalla o mover el dinero a una cuenta segura. La Policía Nacional ha detenido a 43 personas por esta estafa. Su banco nunca le pide eso. Cuelgue y llame usted al número de su tarjeta.
+
+Compártalo con su familia.
+
+Fuente: Ministerio del Interior y Euronews (12/11/2026).
+(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)
+
+#familia #ciberseguridad #estafas #Asturias #InteraSec
+
+== a10_m365 ==
+Outlook se cayó un día. Al día siguiente llegaron los correos falsos avisando de la caída.
+
+Copiaban los avisos de estado de Microsoft y hasta el número real de la incidencia. El enlace pedía la contraseña de Microsoft 365. Tras cada caída famosa llegan los estafadores. Es su momento favorito. Las incidencias reales se consultan en el centro de administración. Nunca desde un correo.
+
+¿Dudas sobre su empresa? Escríbanos por mensaje.
+
+Fuente: Microsoft Security Blog (16/11/2026), vía SecurityWeek.
+(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)
+
+#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec
+
+== a11_bbc ==
+Webs como la de la BBC robaron tarjetas durante horas. Y no lo sabían.
+
+Unas 178 organizaciones usaban la misma herramienta externa. Alguien coló código malicioso en esa herramienta, y las webs de confianza lo cargaban solas. Copiaba los datos de la tarjeta en los formularios de pago. Moraleja: el candado no lo es todo. Use tarjeta virtual o con límite para comprar en internet.
+
+¿Lo sabía? Cuéntenoslo en comentarios.
+
+Fuente: StepSecurity y The Hacker News (17/11/2026).
+
+#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec
+
+== a12_outlook ==
+Abrir un correo podía bastar para que alguien se hiciera pasar por usted.
+
+Microsoft corrigió en noviembre un fallo de Outlook que ya se usaba en ataques reales. Al abrir un mensaje preparado, Outlook entregaba una huella de su contraseña de Windows. Con esa huella, el atacante puede intentar suplantarle. La solución es sencilla: actualizaciones al día, en todos los equipos.
+
+¿Lo sabía? Cuéntenoslo en comentarios.
+
+Fuente: Qualys y SecurityWeek (10/11/2026), sobre el aviso de Microsoft.
+
+#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec
+
+== a13_tiktok ==
+Su hijo usa TikTok. Esto es lo que debería revisar hoy.
+
+Maldita ha destapado contenido que pone en peligro a menores y que circula en la plataforma. Active la sincronización familiar: limita mensajes, búsquedas y tiempo de uso. Cuenta privada, mensajes directos solo con amigos, y nada de ubicación. Y lo más importante: que sepa que puede contarle cualquier cosa que le incomode.
+
+Compártalo con su familia.
+
+Fuente: Maldita.es (noviembre de 2026).
+
+#familia #ciberseguridad #estafas #Asturias #InteraSec
+
+== a14_apuestas ==
+En su renta aparecen apuestas online. Usted no ha apostado nunca.
+
+Es un caso real que atendió INCIBE. Alguien abrió cuentas de juego con sus datos. Para eso basta con su nombre, su DNI y algún dato más. Denuncie, avise a Hacienda y pida a los operadores de juego que cierren esas cuentas. Y antes de enviar su DNI a cualquiera, márquelo con una marca de agua: solo para este trámite.
+
+Compártalo con quien pueda caer. Y síganos para no caer en la próxima.
+
+Fuente: INCIBE, casos reales de la línea 017.
+
+#estafas #ciberseguridad #phishing #Asturias #InteraSec
+
+== a15_bizum_hijo ==
+Mamá, estoy invirtiendo: pongo 300 y me devuelven 700.
+
+Es un caso real que atendió INCIBE: un menor, enganchado a falsas inversiones. Le prometen duplicar el dinero en días. Pagan la primera vez para que confíe. Después piden más y más. Y desaparecen. Hable con sus hijos: si alguien promete dinero fácil, es una estafa.
+
+Compártalo con su familia.
+
+Fuente: INCIBE, casos reales de la línea 017.
+(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)
+
+#familia #ciberseguridad #estafas #Asturias #InteraSec
+
+== a16_screenconnect ==
+Su informático entra en sus equipos a distancia. Esta semana otros también.
+
+Atacantes han usado una herramienta de soporte remoto muy común entre proveedores informáticos. Aprovecharon un fallo crítico para colarse en cientos de equipos de clientes en horas. Usted no la usa directamente, pero su proveedor quizá sí. Pregúntele qué herramienta usa, si está actualizada y si tiene verificación en dos pasos.
+
+¿Dudas sobre su empresa? Escríbanos por mensaje.
+
+Fuente: Huntress y The Hacker News (noviembre de 2026).
+
+#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec
+
+== a17_primer_sms ==
+El primer SMS de la historia decía Feliz Navidad.
+
+Se envió el 3 de diciembre de 1992, desde un ordenador a un móvil. 30 y tantos años después, el SMS es la puerta favorita de los estafadores. Porque el nombre que aparece arriba se puede falsificar, y se cuela en el mismo hilo que los mensajes reales. Regla de oro: no pulse enlaces de SMS. Entre usted en la web o en la app.
+
+¿Lo sabía? Cuéntenoslo en comentarios.
+
+Fuente: Vodafone (primer SMS, 3 de diciembre de 1992).
+(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)
+
+#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec
+
+== a18_tienda_falsa ==
+Esa oferta del 70 % es de una tienda que no existe.
+
+En Navidad aparecen webs copiadas de marcas famosas, con precios imposibles. Solo aceptan transferencia o Bizum. Y el pedido nunca llega. Antes de pagar, compruebe tres cosas. Si el precio es demasiado bueno, desconfíe.
+
+Compártalo con quien pueda caer. Y síganos para no caer en la próxima.
+
+Fuente: INCIBE, consejos para compras online.
+(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)
+
+#estafas #ciberseguridad #phishing #Asturias #InteraSec
+
+== a19_movil_regalo ==
+¿Le regala un móvil a su hijo estas Navidades? Haga esto antes de envolverlo.
+
+Active el control parental y cree su cuenta como menor, no como adulto. Compras solo con su permiso, y límite de tiempo de pantalla. Perfiles privados en redes, y la ubicación solo con la familia. Y pacten juntos unas normas. Que sepa que puede contarle cualquier cosa.
+
+Compártalo con su familia.
+
+Fuente: INCIBE, Internet Segura for Kids (IS4K).
+
+#familia #ciberseguridad #estafas #Asturias #InteraSec
+
+== a20_loteria ==
+Le ha tocado la lotería. Solo tiene que pagar los gastos.
+
+Por Navidad llegan correos y SMS de premios que usted nunca jugó. Para cobrar, le piden una tasa, sus datos o su cuenta bancaria. Ningún premio de verdad se cobra pagando antes. Los décimos se comprueban en la web oficial de Loterías o en su administración.
+
+Compártalo con quien pueda caer. Y síganos para no caer en la próxima.
+
+Fuente: INCIBE y Loterías y Apuestas del Estado.
+(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)
+
+#estafas #ciberseguridad #phishing #Asturias #InteraSec
+
+== b02_fotos ==
+Esta foto dice dónde vive. Y usted no lo sabe.
+
+Cada foto puede llevar una ficha escondida con la ubicación exacta y la hora. Muchas redes la borran al publicar. Pero si la envía como archivo o por correo, viaja con ella. Desactive la ubicación en la cámara del móvil. Tarda 10 segundos.
+
+¿Lo sabía? Cuéntenoslo en comentarios.
+
+Fuente: INCIBE (OSI), metadatos de las fotos.
+
+#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec
+

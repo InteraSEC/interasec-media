@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-10",
+ "updated": "2026-11-27",
  "items": [
   {
    "id": "v1_candado",
@@ -1082,6 +1082,300 @@
    "status": "banco",
    "when": null,
    "permalink": null
+  },
+  {
+   "status": "metricool",
+   "when": "2026-12-02T10:07",
+   "permalink": null,
+   "id": "a01_fondos",
+   "kind": "reel",
+   "cat": "enganan",
+   "title": "Este anuncio le regala fondos de pantalla. Y se lleva su cuenta.",
+   "caption": "Este anuncio le regala fondos de pantalla. Y se lleva su cuenta.\n\nSale en Facebook e Instagram: fondos animados gratis para su ordenador. Lo instala y el fondo funciona. Por eso nadie sospecha. Pero mete una extensión en su navegador que copia sus sesiones abiertas. Entran en sus cuentas sin contraseña, y hasta borran los avisos de seguridad de su correo. Un solo anuncio llegó a más de 6.000 personas. Descargue programas solo de la web oficial. Nunca desde un anuncio.\n\nCompártalo con quien pueda caer. Y síganos para no caer en la próxima.\n\nFuente: Bitdefender Labs (26/11/2026).\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#estafas #ciberseguridad #phishing #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a01_fondos.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a01_fondos_portada.jpg"
+  },
+  {
+   "status": "metricool",
+   "when": "2026-12-31T10:07",
+   "permalink": null,
+   "id": "a02_drupal",
+   "kind": "reel",
+   "cat": "empresa",
+   "title": "Su web puede tener un botón de reinstalar. Y cualquiera puede pulsarlo.",
+   "caption": "Su web puede tener un botón de reinstalar. Y cualquiera puede pulsarlo.\n\nDrupal ha avisado de un fallo altamente crítico en su instalador. Permite tomar el control de la web, y ya se está usando en ataques reales. Si su web es Drupal, actualice a las versiones corregidas o bloquee el instalador mientras tanto. Una web también necesita mantenimiento, como la caldera o el coche.\n\n¿Dudas sobre su empresa? Escríbanos por mensaje.\n\nFuente: Drupal SA-CORE-2026-017 (18/11/2026).\n\n#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a02_drupal.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a02_drupal_portada.jpg"
+  },
+  {
+   "status": "metricool",
+   "when": "2026-12-15T10:07",
+   "permalink": null,
+   "id": "a03_devolucion",
+   "kind": "reel",
+   "cat": "resulta",
+   "title": "Le cobran algo que usted no compró. Su banco tiene hasta mañana para devolvérselo.",
+   "caption": "Le cobran algo que usted no compró. Su banco tiene hasta mañana para devolvérselo.\n\nLo dice la ley de servicios de pago, en su artículo 45. Si usted no autorizó el pago, el banco debe devolverlo como tarde al final del día hábil siguiente. Solo puede retrasarlo si sospecha fraude y se lo comunica al Banco de España. Avise a su banco en cuanto lo vea. Y guarde por escrito la reclamación. Ojo: si fue usted quien hizo la transferencia engañado, el caso es distinto.\n\n¿Lo sabía? Cuéntenoslo en comentarios.\n\nFuente: Real Decreto-ley 19/2018, art. 45 (BOE).\n\n#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a03_devolucion.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a03_devolucion_portada.jpg"
+  },
+  {
+   "status": "metricool",
+   "when": "2026-12-21T10:07",
+   "permalink": null,
+   "id": "a04_asistente",
+   "kind": "reel",
+   "cat": "resulta",
+   "title": "Su asistente de voz puede leer sus chats. Aunque la app esté cifrada.",
+   "caption": "Su asistente de voz puede leer sus chats. Aunque la app esté cifrada.\n\nLos nuevos asistentes con inteligencia artificial pueden ver lo que hay en la pantalla. Y en la pantalla están sus conversaciones, ya descifradas. Signal ha anunciado que bloqueará esa lectura en sus chats. En iPhone puede excluir apps de Siri en los ajustes. En Android, limite el contexto de pantalla de Gemini.\n\n¿Lo sabía? Cuéntenoslo en comentarios.\n\nFuente: BleepingComputer (22/11/2026) y EFF (28/10/2026).\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a04_asistente.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a04_asistente_portada.jpg"
+  },
+  {
+   "status": "metricool",
+   "when": "2026-12-16T10:07",
+   "permalink": null,
+   "id": "a05_sonicwall",
+   "kind": "reel",
+   "cat": "empresa",
+   "title": "Su firewall sigue encendido. Pero nadie lo arregla ya.",
+   "caption": "Su firewall sigue encendido. Pero nadie lo arregla ya.\n\nSonicWall ha avisado: sus firewalls de Gen 6 ya no reciben parches. Ni uno. Ni siquiera si aparece un fallo crítico. Son muy comunes en oficinas: modelos TZ y SOHO con SonicOS 6. Mientras lo cambia, cierre la administración desde internet y active la verificación en dos pasos.\n\n¿Dudas sobre su empresa? Escríbanos por mensaje.\n\nFuente: SonicWall, aviso del 18/11/2026.\n\n#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a05_sonicwall.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a05_sonicwall_portada.jpg"
+  },
+  {
+   "status": "metricool",
+   "when": "2026-12-04T10:07",
+   "permalink": null,
+   "id": "a06_renfe",
+   "kind": "reel",
+   "cat": "enganan",
+   "title": "Le escriben de Renfe con su nombre, su DNI y su último viaje. Puede que no sea Renfe.",
+   "caption": "Le escriben de Renfe con su nombre, su DNI y su último viaje. Puede que no sea Renfe.\n\nRenfe ha confirmado un acceso no autorizado a sus sistemas de venta de billetes. Quedaron expuestos nombres, contactos, documentos, viajes y contraseñas cifradas. Con esos datos, un estafador le escribe un mensaje casi perfecto sobre una compensación. Si tiene cuenta, cambie la contraseña. Y nunca dé claves ni datos del banco por mensaje.\n\nCompártalo con quien pueda caer. Y síganos para no caer en la próxima.\n\nFuente: aviso oficial de Renfe (noviembre de 2026).\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#estafas #ciberseguridad #phishing #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a06_renfe.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a06_renfe_portada.jpg"
+  },
+  {
+   "status": "metricool",
+   "when": "2026-12-09T10:07",
+   "permalink": null,
+   "id": "a07_synology",
+   "kind": "reel",
+   "cat": "empresa",
+   "title": "Su NAS guarda todos los archivos de la empresa. Y tiene una puerta abierta.",
+   "caption": "Su NAS guarda todos los archivos de la empresa. Y tiene una puerta abierta.\n\nSynology ha avisado de un fallo crítico: 9,8 sobre 10. Desde internet, sin usuario ni clave, se pueden leer o cambiar archivos. Primero, desactive OAuth Service si no lo usa. Segundo, actualice DSM. Tercero, entre solo por VPN.\n\n¿Dudas sobre su empresa? Escríbanos por mensaje.\n\nFuente: Synology-SA-26:21 (19/11/2026).\n\n#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a07_synology.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a07_synology_portada.jpg"
+  },
+  {
+   "status": "metricool",
+   "when": "2026-12-10T10:07",
+   "permalink": null,
+   "id": "a08_beneficiario",
+   "kind": "reel",
+   "cat": "resulta",
+   "title": "Su banco ya le avisa si el IBAN no es de quien usted cree. Casi nadie lo lee.",
+   "caption": "Su banco ya le avisa si el IBAN no es de quien usted cree. Casi nadie lo lee.\n\nDesde octubre de 2025, todos los bancos comprueban el nombre del titular antes de una transferencia. Si el nombre no coincide, le aparece un aviso. Si sigue adelante, el dinero se envía igual. Y el banco ya no responde. Ese aviso le salva del cambio de cuenta y del falso departamento antifraude.\n\n¿Lo sabía? Cuéntenoslo en comentarios.\n\nFuente: Banco de España, verificación del beneficiario.\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a08_beneficiario.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a08_beneficiario_portada.jpg"
+  },
+  {
+   "status": "metricool",
+   "when": "2026-12-01T10:07",
+   "permalink": null,
+   "id": "a09_antifraude",
+   "kind": "reel",
+   "cat": "suyos",
+   "title": "Le escribe el departamento antifraude de su banco. Y el fraude son ellos.",
+   "caption": "Le escribe el departamento antifraude de su banco. Y el fraude son ellos.\n\nPrimero, un SMS: hemos detectado un movimiento sospechoso. Después, la llamada de un agente muy amable y con mucha prisa. Le pide claves, compartir pantalla o mover el dinero a una cuenta segura. La Policía Nacional ha detenido a 43 personas por esta estafa. Su banco nunca le pide eso. Cuelgue y llame usted al número de su tarjeta.\n\nCompártalo con su familia.\n\nFuente: Ministerio del Interior y Euronews (12/11/2026).\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#familia #ciberseguridad #estafas #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a09_antifraude.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a09_antifraude_portada.jpg"
+  },
+  {
+   "status": "metricool",
+   "when": "2026-12-23T10:07",
+   "permalink": null,
+   "id": "a10_m365",
+   "kind": "reel",
+   "cat": "empresa",
+   "title": "Outlook se cayó un día. Al día siguiente llegaron los correos falsos avisando de la caída.",
+   "caption": "Outlook se cayó un día. Al día siguiente llegaron los correos falsos avisando de la caída.\n\nCopiaban los avisos de estado de Microsoft y hasta el número real de la incidencia. El enlace pedía la contraseña de Microsoft 365. Tras cada caída famosa llegan los estafadores. Es su momento favorito. Las incidencias reales se consultan en el centro de administración. Nunca desde un correo.\n\n¿Dudas sobre su empresa? Escríbanos por mensaje.\n\nFuente: Microsoft Security Blog (16/11/2026), vía SecurityWeek.\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a10_m365.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a10_m365_portada.jpg"
+  },
+  {
+   "status": "metricool",
+   "when": "2026-12-11T10:07",
+   "permalink": null,
+   "id": "a11_bbc",
+   "kind": "reel",
+   "cat": "resulta",
+   "title": "Webs como la de la BBC robaron tarjetas durante horas. Y no lo sabían.",
+   "caption": "Webs como la de la BBC robaron tarjetas durante horas. Y no lo sabían.\n\nUnas 178 organizaciones usaban la misma herramienta externa. Alguien coló código malicioso en esa herramienta, y las webs de confianza lo cargaban solas. Copiaba los datos de la tarjeta en los formularios de pago. Moraleja: el candado no lo es todo. Use tarjeta virtual o con límite para comprar en internet.\n\n¿Lo sabía? Cuéntenoslo en comentarios.\n\nFuente: StepSecurity y The Hacker News (17/11/2026).\n\n#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a11_bbc.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a11_bbc_portada.jpg"
+  },
+  {
+   "status": "metricool",
+   "when": "2026-12-18T10:07",
+   "permalink": null,
+   "id": "a12_outlook",
+   "kind": "reel",
+   "cat": "resulta",
+   "title": "Abrir un correo podía bastar para que alguien se hiciera pasar por usted.",
+   "caption": "Abrir un correo podía bastar para que alguien se hiciera pasar por usted.\n\nMicrosoft corrigió en noviembre un fallo de Outlook que ya se usaba en ataques reales. Al abrir un mensaje preparado, Outlook entregaba una huella de su contraseña de Windows. Con esa huella, el atacante puede intentar suplantarle. La solución es sencilla: actualizaciones al día, en todos los equipos.\n\n¿Lo sabía? Cuéntenoslo en comentarios.\n\nFuente: Qualys y SecurityWeek (10/11/2026), sobre el aviso de Microsoft.\n\n#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a12_outlook.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a12_outlook_portada.jpg"
+  },
+  {
+   "status": "metricool",
+   "when": "2026-12-30T10:07",
+   "permalink": null,
+   "id": "a13_tiktok",
+   "kind": "reel",
+   "cat": "suyos",
+   "title": "Su hijo usa TikTok. Esto es lo que debería revisar hoy.",
+   "caption": "Su hijo usa TikTok. Esto es lo que debería revisar hoy.\n\nMaldita ha destapado contenido que pone en peligro a menores y que circula en la plataforma. Active la sincronización familiar: limita mensajes, búsquedas y tiempo de uso. Cuenta privada, mensajes directos solo con amigos, y nada de ubicación. Y lo más importante: que sepa que puede contarle cualquier cosa que le incomode.\n\nCompártalo con su familia.\n\nFuente: Maldita.es (noviembre de 2026).\n\n#familia #ciberseguridad #estafas #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a13_tiktok.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a13_tiktok_portada.jpg"
+  },
+  {
+   "status": "metricool",
+   "when": "2026-12-28T10:07",
+   "permalink": null,
+   "id": "a14_apuestas",
+   "kind": "reel",
+   "cat": "enganan",
+   "title": "En su renta aparecen apuestas online. Usted no ha apostado nunca.",
+   "caption": "En su renta aparecen apuestas online. Usted no ha apostado nunca.\n\nEs un caso real que atendió INCIBE. Alguien abrió cuentas de juego con sus datos. Para eso basta con su nombre, su DNI y algún dato más. Denuncie, avise a Hacienda y pida a los operadores de juego que cierren esas cuentas. Y antes de enviar su DNI a cualquiera, márquelo con una marca de agua: solo para este trámite.\n\nCompártalo con quien pueda caer. Y síganos para no caer en la próxima.\n\nFuente: INCIBE, casos reales de la línea 017.\n\n#estafas #ciberseguridad #phishing #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a14_apuestas.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a14_apuestas_portada.jpg"
+  },
+  {
+   "status": "metricool",
+   "when": "2026-12-14T10:07",
+   "permalink": null,
+   "id": "a15_bizum_hijo",
+   "kind": "reel",
+   "cat": "suyos",
+   "title": "Mamá, estoy invirtiendo: pongo 300 y me devuelven 700.",
+   "caption": "Mamá, estoy invirtiendo: pongo 300 y me devuelven 700.\n\nEs un caso real que atendió INCIBE: un menor, enganchado a falsas inversiones. Le prometen duplicar el dinero en días. Pagan la primera vez para que confíe. Después piden más y más. Y desaparecen. Hable con sus hijos: si alguien promete dinero fácil, es una estafa.\n\nCompártalo con su familia.\n\nFuente: INCIBE, casos reales de la línea 017.\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#familia #ciberseguridad #estafas #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a15_bizum_hijo.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a15_bizum_hijo_portada.jpg"
+  },
+  {
+   "status": "metricool",
+   "when": "2026-12-29T10:07",
+   "permalink": null,
+   "id": "a16_screenconnect",
+   "kind": "reel",
+   "cat": "empresa",
+   "title": "Su informático entra en sus equipos a distancia. Esta semana otros también.",
+   "caption": "Su informático entra en sus equipos a distancia. Esta semana otros también.\n\nAtacantes han usado una herramienta de soporte remoto muy común entre proveedores informáticos. Aprovecharon un fallo crítico para colarse en cientos de equipos de clientes en horas. Usted no la usa directamente, pero su proveedor quizá sí. Pregúntele qué herramienta usa, si está actualizada y si tiene verificación en dos pasos.\n\n¿Dudas sobre su empresa? Escríbanos por mensaje.\n\nFuente: Huntress y The Hacker News (noviembre de 2026).\n\n#ciberseguridad #pymes #empresas #Asturias #Llanera #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a16_screenconnect.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a16_screenconnect_portada.jpg"
+  },
+  {
+   "status": "metricool",
+   "when": "2026-12-03T10:07",
+   "permalink": null,
+   "id": "a17_primer_sms",
+   "kind": "reel",
+   "cat": "resulta",
+   "title": "El primer SMS de la historia decía Feliz Navidad.",
+   "caption": "El primer SMS de la historia decía Feliz Navidad.\n\nSe envió el 3 de diciembre de 1992, desde un ordenador a un móvil. 30 y tantos años después, el SMS es la puerta favorita de los estafadores. Porque el nombre que aparece arriba se puede falsificar, y se cuela en el mismo hilo que los mensajes reales. Regla de oro: no pulse enlaces de SMS. Entre usted en la web o en la app.\n\n¿Lo sabía? Cuéntenoslo en comentarios.\n\nFuente: Vodafone (primer SMS, 3 de diciembre de 1992).\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a17_primer_sms.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a17_primer_sms_portada.jpg"
+  },
+  {
+   "status": "metricool",
+   "when": "2026-12-07T10:07",
+   "permalink": null,
+   "id": "a18_tienda_falsa",
+   "kind": "reel",
+   "cat": "enganan",
+   "title": "Esa oferta del 70 % es de una tienda que no existe.",
+   "caption": "Esa oferta del 70 % es de una tienda que no existe.\n\nEn Navidad aparecen webs copiadas de marcas famosas, con precios imposibles. Solo aceptan transferencia o Bizum. Y el pedido nunca llega. Antes de pagar, compruebe tres cosas. Si el precio es demasiado bueno, desconfíe.\n\nCompártalo con quien pueda caer. Y síganos para no caer en la próxima.\n\nFuente: INCIBE, consejos para compras online.\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#estafas #ciberseguridad #phishing #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a18_tienda_falsa.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a18_tienda_falsa_portada.jpg"
+  },
+  {
+   "status": "metricool",
+   "when": "2026-12-22T10:07",
+   "permalink": null,
+   "id": "a19_movil_regalo",
+   "kind": "reel",
+   "cat": "suyos",
+   "title": "¿Le regala un móvil a su hijo estas Navidades? Haga esto antes de envolverlo.",
+   "caption": "¿Le regala un móvil a su hijo estas Navidades? Haga esto antes de envolverlo.\n\nActive el control parental y cree su cuenta como menor, no como adulto. Compras solo con su permiso, y límite de tiempo de pantalla. Perfiles privados en redes, y la ubicación solo con la familia. Y pacten juntos unas normas. Que sepa que puede contarle cualquier cosa.\n\nCompártalo con su familia.\n\nFuente: INCIBE, Internet Segura for Kids (IS4K).\n\n#familia #ciberseguridad #estafas #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a19_movil_regalo.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a19_movil_regalo_portada.jpg"
+  },
+  {
+   "status": "metricool",
+   "when": "2026-12-17T10:07",
+   "permalink": null,
+   "id": "a20_loteria",
+   "kind": "reel",
+   "cat": "enganan",
+   "title": "Le ha tocado la lotería. Solo tiene que pagar los gastos.",
+   "caption": "Le ha tocado la lotería. Solo tiene que pagar los gastos.\n\nPor Navidad llegan correos y SMS de premios que usted nunca jugó. Para cobrar, le piden una tasa, sus datos o su cuenta bancaria. Ningún premio de verdad se cobra pagando antes. Los décimos se comprueban en la web oficial de Loterías o en su administración.\n\nCompártalo con quien pueda caer. Y síganos para no caer en la próxima.\n\nFuente: INCIBE y Loterías y Apuestas del Estado.\n(Nombres, webs y mensajes del vídeo: ejemplo ficticio.)\n\n#estafas #ciberseguridad #phishing #Asturias #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a20_loteria.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/a20_loteria_portada.jpg"
+  },
+  {
+   "status": "banco",
+   "when": null,
+   "permalink": null,
+   "id": "b02_fotos",
+   "kind": "reel",
+   "cat": "resulta",
+   "title": "Esta foto dice dónde vive. Y usted no lo sabe.",
+   "caption": "Esta foto dice dónde vive. Y usted no lo sabe.\n\nCada foto puede llevar una ficha escondida con la ubicación exacta y la hora. Muchas redes la borran al publicar. Pero si la envía como archivo o por correo, viaja con ella. Desactive la ubicación en la cámara del móvil. Tarda 10 segundos.\n\n¿Lo sabía? Cuéntenoslo en comentarios.\n\nFuente: INCIBE (OSI), metadatos de las fotos.\n\n#ResultaQue #ciberseguridad #tecnologia #curiosidades #InteraSec",
+   "media": [
+    "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b02_fotos.mp4"
+   ],
+   "cover": "https://raw.githubusercontent.com/InteraSEC/interasec-media/main/reels2027/b02_fotos_portada.jpg"
   }
  ]
 }
