@@ -1,6 +1,55 @@
 {
-  "actualizado": "2026-11-26T16:54:27+00:00",
+  "actualizado": "2026-11-27T16:54:42+00:00",
   "items": [
+    {
+      "id": "2026-11-27-pm-1",
+      "creada": "2026-11-27T16:54:42+00:00",
+      "serie": "resulta",
+      "formato": "reel",
+      "titulo": "Resulta que la persona de la videollamada era una grabación: el esquema «FaceStealer» que ha destapado el FBI",
+      "gancho": "Le invitan a una videollamada. La cara que ve es una grabación.",
+      "resumen": "El FBI ha alertado (aviso FLASH del 12-11-2026, recogido por Genbeta el 25-11) del esquema «FaceStealer», atribuido a Corea del Norte: invitaciones a reuniones que llegan desde cuentas robadas de conocidos (Telegram, LinkedIn, Slack, Discord), webs que imitan Zoom, Teams o Google Meet y vídeos pregrabados de víctimas anteriores. Mientras espera, le graban por la webcam; luego simulan un fallo de audio y le piden pulsar una «actualización», ejecutar un script o pegar un código en el ordenador, que instala el programa malicioso. Aunque el blanco principal es el sector cripto, el FBI dice que ataca a personas y empresas. Encaja como curiosidad con consejo práctico para cualquier pyme que haga reuniones online.",
+      "datos_clave": [
+        "Aviso FLASH del FBI AC-111226-MS, 12 de noviembre de 2026 (TLP:CLEAR)",
+        "Más de 400 millones de dólares en criptomonedas robados en los últimos 18 meses (FBI)",
+        "Más de 900 vídeos de webcam de víctimas grabados en secreto (FBI)",
+        "Invitaciones desde cuentas comprometidas de Telegram, LinkedIn, Slack y Discord; falsos Zoom, Teams y Google Meet",
+        "El «arreglo» del audio: pulsar una actualización, ejecutar un script o copiar y pegar código en la terminal",
+        "Dominios falsos de ejemplo citados por el FBI: uu01webzoom.us y teams.livemeet.us",
+        "Consejos FBI: usar la aplicación oficial e introducir el código de la reunión, no encender la cámara hasta ver y oír a quien invita, nunca pegar código para «actualizar», confirmar la cita por otra vía",
+        "Dirigido sobre todo a cripto/web3 y desarrolladores, pero el FBI habla de «individuals and companies»"
+      ],
+      "fuentes": [
+        {
+          "titulo": "FBI (IC3) – FLASH AC-111226-MS: North Korean FaceStealer scheme",
+          "url": "https://www.ic3.gov/CSA/2026/261112.pdf",
+          "fecha": "2026-11-12"
+        },
+        {
+          "titulo": "Genbeta – Hackers norcoreanos usaron videollamadas falsas para robar más de 400 millones de dólares en criptomonedas, según el FBI",
+          "url": "https://www.genbeta.com/seguridad/hackers-norcoreanos-usaron-videollamadas-falsas-robo-400-millones-dolares-criptomonedas-fbi",
+          "fecha": "2026-11-25"
+        },
+        {
+          "titulo": "BleepingComputer – US disrupts North Korean campaign behind $400 million crypto theft",
+          "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
+          "fecha": "2026-11-14"
+        }
+      ],
+      "guion": [
+        "Le invitan a una videollamada. La cara que ve es una grabación.",
+        "La invitación llega de un contacto real… cuya cuenta ya han robado.",
+        "El enlace parece Zoom, Teams o Meet. No lo es.",
+        "Mientras espera, le están grabando por la cámara.",
+        "Luego, «falla el audio» y le piden instalar un arreglo o pegar un código.",
+        "Ese arreglo es el virus. Lo ha destapado el FBI: más de 400 millones robados.",
+        "Entre en la reunión desde la aplicación oficial, con el código.",
+        "No encienda la cámara hasta ver y oír a quien le invita.",
+        "Y nunca pegue un código que le pidan en una llamada."
+      ],
+      "caption": "Le invitan a una reunión por videollamada. La invitación llega de alguien que conoce, la pantalla parece Zoom o Teams y al otro lado ve una cara conocida. Pero es una grabación.\n\nEs el esquema «FaceStealer», del que ha alertado el FBI: usan cuentas robadas para enviar la invitación, le graban por la webcam mientras espera y, cuando «falla el audio», le piden instalar una actualización o pegar un código en el ordenador. Ese «arreglo» instala un programa malicioso. Según el FBI, ya se han llevado más de 400 millones de dólares y tenían más de 900 vídeos de víctimas.\n\nCómo protegerse:\n✅ Entre en las reuniones desde la aplicación oficial e introduzca el código, en lugar de pulsar enlaces.\n✅ No encienda la cámara hasta ver y oír a quien le ha invitado.\n✅ Nunca ejecute ni pegue un código para «arreglar» la llamada.\n✅ Si la cita le llega por un mensaje inesperado, confírmela por otra vía.\n✅ Si pasó en un equipo de trabajo, avise enseguida a su empresa.\n\n¿Hablamos? Escríbanos por mensaje.\n\n#InteraSec #Asturias #Ciberseguridad #Videollamadas #Estafas #Teletrabajo #Pymes",
+      "estado": "pendiente"
+    },
     {
       "id": "2026-11-26-pm-1",
       "creada": "2026-11-26T16:54:27+00:00",
